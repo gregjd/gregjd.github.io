@@ -12,3 +12,6 @@ github_username:  gregjd
 
 # Build settings
 markdown: kramdown
+
+# Custom
+permalink: /:year/:month/:day/:title/
