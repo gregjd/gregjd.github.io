@@ -11,7 +11,10 @@ twitter_username: GJordanDetamore
 github_username:  gregjd
 
 # Build settings
-markdown: kramdown
+# markdown: kramdown
+markdown: redcarpet
+redcarpet:
+  extensions: ["smart"]
 
 # Custom
 permalink: /:year/:month/:day/:title/
