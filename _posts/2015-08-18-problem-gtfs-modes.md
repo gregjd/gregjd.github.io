@@ -2,7 +2,7 @@
 layout: post
 title: "The problem with GTFS transit mode categories"
 categories: jekyll update
-------
+---
 
 
 One of the largest problems we have with the way we talk about transit is that we focus our language on technology instead of service. This is true both in the United States and in many other countries.
@@ -10,18 +10,20 @@ One of the largest problems we have with the way we talk about transit is that w
 One of the most important and surprising things I've learned from [Jarrett Walker](http://www.humantransit.org/) is the importance of language around transit. For example, [the usage of the term _line_ versus _route_](http://www.humantransit.org/2011/02/watching-our-words-route-or-line.html).
 
 This brings us to the [General Transit Feed Specification](https://developers.google.com/transit/gtfs/?hl=en), the industry standard for sharing transit schedule data. GTFS data is released as a set of tables, each representing different data points --- stops, stop times, trips, etc. One of the files, `routes.txt`, contains information about each service/line/route, including a number indicating the mode of transit. The GTFS mode categories (`route_type`) are [as follows](https://developers.google.com/transit/gtfs/reference?hl=en#routestxt):
-> * 0 - _Tram, Streetcar, Light rail._ Any light rail or street level system within a metropolitan area.
-> * 1 - _Subway, Metro._ Any underground rail system within a metropolitan area.
-> * 2 - _Rail._ Used for intercity or long-distance travel.
-> * 3 - _Bus._ Used for short- and long-distance bus routes.
-> * 4 - _Ferry._ Used for short- and long-distance boat service.
-> * 5 - _Cable car._ Used for street-level cable cars where the cable runs beneath the car.
-> * 6 - _Gondola, Suspended cable car._ Typically used for aerial cable cars where the car is suspended from the cable.
-> * 7 - _Funicular._ Any rail system designed for steep inclines.
+
+> * 0 - **Tram, Streetcar, Light rail.** Any light rail or street level system within a metropolitan area.
+> * 1 - **Subway, Metro.** Any underground rail system within a metropolitan area.
+> * 2 - **Rail.** Used for intercity or long-distance travel.
+> * 3 - **Bus.** Used for short- and long-distance bus routes.
+> * 4 - **Ferry.** Used for short- and long-distance boat service.
+> * 5 - **Cable car.** Used for street-level cable cars where the cable runs beneath the car.
+> * 6 - **Gondola, Suspended cable car.** Typically used for aerial cable cars where the car is suspended from the cable.
+> * 7 - **Funicular.** Any rail system designed for steep inclines.
 
 These categories aren't _bad_ per se. They do represent the modes. But the larger issue here is that GTFS places an emphasis on mode, focusing on differences that largely don't matter while glossing over those that really do. The distinctions between some of these modes are fuzzy, and the descriptions explicitly state that some encompass both short- and long-distance service, two entirely different beasts.
 
 Let's say we're interested in looking at the things we think of as "subways." GTFS has a category for Subway/Metro. Great! Except... a subway-like service could really be operated on at least four other mode categories:
+
 * Tram/Streetcar/Light rail (example: much of [Los Angeles Metro Rail](https://en.wikipedia.org/wiki/Metro_Rail_(Los_Angeles_County)))
 * Rail (many lines in and around Tokyo, including the [Yamanote](https://en.wikipedia.org/wiki/Yamanote_Line))
 * Bus (genuine bus rapid transit, like [TransMilenio](https://en.wikipedia.org/wiki/TransMilenio))
@@ -44,7 +46,7 @@ This is Bogotá, Columbia. Notice how there's a sea of bus stops, all with the s
 
 ![Seattle rail stops map](/images/Seattle_Stops_Map_Rail.png)
 
-Here's downtown Seattle. There are two big problems here. The first is that two quite different services are both classified as "Tram, Streetcar, Light rail" and thus displayed the same way: the [Central Link light rail](https://en.wikipedia.org/wiki/Central_Link) (at the bottom-center of the image) and the South Lake Union Streetcar (at the top-center). The Central Link (weekday ridership 37,350) is Seattle's premier transit service, with a dedicated right-of-way, grade separation for much of the route, and stops that average over a mile apart. On the other hand, the SLU Streetcar (weekday ridership 2,600 and only 1.3 miles long) runs in mixed traffic with stops a little over a fifth of a mile apart. These are two entirely different types of services and should not be visualized the same way. The second problem with the map is the absence of high-quality bus routes, notably Seattle's RapidRide network. [RapidRide lines](https://en.wikipedia.org/wiki/RapidRide) "service fewer stops (40% less than the routes they replaced), make extensive use of transit signal priority to preempt traffic lights and on some lines, use semi-exclusive lanes to bypass traffic." RapidRide (daily ridership 57,000) runs with headways of 10 min or less during peak hours and 15 min or less at other times. But instead of having any hierarchy of bus services, they're all presented the same on this map, and you have to zoom in two levels from the view above in order to see any/all of them.
+Here's downtown Seattle. There are two big problems here. The first is that two quite different services are both classified as "Tram, Streetcar, Light rail" and thus displayed the same way: the [Central Link light rail](https://en.wikipedia.org/wiki/Central_Link) (at the bottom-center of the image) and the [South Lake Union Streetcar](https://en.wikipedia.org/wiki/South_Lake_Union_Streetcar) (at the top-center). The Central Link (weekday ridership 37,350) is Seattle's premier transit service, with a dedicated right-of-way, grade separation for much of the route, and stops that average over a mile apart. On the other hand, the SLU Streetcar (weekday ridership 2,600 and only 1.3 miles long) runs in mixed traffic with stops a little over a fifth of a mile apart. These are two entirely different types of services and should not be visualized the same way. The second problem with the map is the absence of high-quality bus routes, notably Seattle's RapidRide network. [RapidRide lines](https://en.wikipedia.org/wiki/RapidRide) "service fewer stops (40% less than the routes they replaced), make extensive use of transit signal priority to preempt traffic lights and on some lines, use semi-exclusive lanes to bypass traffic." RapidRide (daily ridership 57,000) runs with headways of 10 min or less during peak hours and 15 min or less at other times. But instead of having any hierarchy of bus services, they're all presented the same on this map, and you have to zoom in two levels from the view above in order to see any/all of them.
 
 What should we do about all this? **Develop a way to describe transit that focuses on service instead of technology**, and actually use it in the real world. In my next post, I will lay out such a classification scheme.
 
