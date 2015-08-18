@@ -140,3 +140,28 @@ The actual service provided by most light rail lines is nearly equivalent to tha
 Clockface, please!
 ----
 
+
+
+
+
+----
+
+
+For contrast, check out the new map for San Francisco transit:
+
+
+As Jarett Walker pointed out in [his post], the beauty of this map is _not_ up close --- though it's great at that level too --- but rather that you can see the structure of the system at a faraway glance, due to line thickness based on frequency (and red color for faster Rapid and Metro lines). This is the kind of service-based understanding that we need to move toward.
+
+
+
+
+Reinforces
+SEPTA's "everything that runs on rails" map. Most of the map is taken up by Regional Rail lines, most of which run once an hour off-peak are nearly useless for intra-city transit (despite the fact that several of them operate entirely within the city).
+
+
+
+
+This post or the other one?
+
+Problematic - _"enhanced bus" or "train on wheels"
+basically casts the term "bus" (without qualification) as synonymous with a low quality of service.
