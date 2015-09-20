@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About
+permalink: about/
 ---
 
 ![Profile picture](/images/Profile_Pic_Cropped.png)
