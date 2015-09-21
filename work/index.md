@@ -11,7 +11,7 @@ Below is a selection of my projects and work:
 
 <br>
 
-## Dev
+## Programs
 
 #### FrequentFinder
 
