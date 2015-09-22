@@ -13,8 +13,9 @@
         </svg>
       </a>
 
+      {% assign pages = site.pages | sort:"order"  %}
       <div class="trigger">
-        {% for page in site.pages %}
+        {% for page in pages %}
           {% if page.title %}
           <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
           {% endif %}

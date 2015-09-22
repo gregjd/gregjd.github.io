@@ -2,6 +2,7 @@
 layout: page
 title: Work
 permalink: work/
+order: 2
 ---
 
 

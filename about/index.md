@@ -2,6 +2,7 @@
 layout: page
 title: About
 permalink: about/
+order: 1
 ---
 
 ![Profile picture](/images/Profile_Pic_Cropped.png)
