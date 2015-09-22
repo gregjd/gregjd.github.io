@@ -14,10 +14,11 @@ layout: default
 
   My most recent project is FrequentFinder, which generates frequent transit network maps from GTFS data. <a href="/work/">See a selected list of projects I've done.</a>
 
-  <h1 class="page-heading">Posts</h1>
+  <h1 class="page-heading">Blog</h1>
 
+  Latest post:
   <ul class="post-list">
-    {% for post in site.posts %}
+    {% for post in site.posts limit:1 %}
       <li>
         <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
 
@@ -28,6 +29,6 @@ layout: default
     {% endfor %}
   </ul>
 
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+  <a href="/blog/">See all posts.</a>
 
 </div>
