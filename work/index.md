@@ -41,10 +41,10 @@ I created this interactive map of Rhode Island using JavaScript and D3. While cu
 
 #### Providence base maps
 
-I redesigned ProvPlan's base maps of Providence. These maps are some of the most widely used maps of the city.
+I redesigned ProvPlan/DataSpark's base maps of Providence. These maps are some of the most widely used maps of the city.
 
-*Examples:* [neighborhoods](http://provplan.org/assets/uploads/images/Providence_Neighborhoods.png), [schools](http://provplan.org/assets/uploads/images/Providence_Schools(1).png), [historic districts](http://provplan.org/assets/uploads/images/Providence_HistoricDist.png), [wards](http://provplan.org/assets/uploads/images/Providence_Wards.png)  
-[See the full collection on ProvPlan's website](http://provplan.org/data-and-information/other-resources)
+*Examples:* [neighborhoods](http://datasparkri.org/wp-content/uploads/2015/10/Neighborhoods003.png), [schools](http://datasparkri.org/wp-content/uploads/2015/10/Neighborhoods005.png), [historic districts](http://datasparkri.org/wp-content/uploads/2015/10/Neighborhoods002.png), [wards](http://datasparkri.org/wp-content/uploads/2015/10/Neighborhoods006.png)  
+[See the full collection on DataSpark's website](http://datasparkri.org/maps)
 
 <br>
 
