@@ -1,6 +1,7 @@
 ---
 published: true
 title: "Trip frequency, trip length, and transit service headways"
+layout: post
 ---
 
 
@@ -28,7 +29,7 @@ This isn't a hugely important point, but one exception to this rule is that peop
 
 So overall, trip frequency can be represented by a function where trip frequency declines as trip length increases, except for very short trips. This chart is representative ([source](http://www.princeton.edu/~alaink/Orf467F12/LincolnTravelDemandModel.pdf#page=35)):
 
-![Lincoln trip distribution graph]({{site.baseurl}}//images/Lincoln_Trip_Distribution.svg)
+![Lincoln trip distribution graph](/images/Lincoln_Trip_Distribution.svg)
 
 This chart is for a travel demand model for the small city of Lincoln, Nebraska. If you were to look at a larger city, the time/distance values would probably increase, but otherwise the releationship would generally stay the same. See [here](https://www.fhwa.dot.gov/planning/tmip/publications/other_reports/multiday_gps/chapter01.cfm#Toc410288763) and [here](http://d2dtl5nnlpfr0r.cloudfront.net/tti.tamu.edu/documents/17-1.pdf#page=19) for more examples.
 
