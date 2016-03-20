@@ -2,14 +2,6 @@
 published: false
 ---
 
-## A New Post
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
-
-
-
-
-;ll
 
 Frequency is a crucially important factor in the usefulness of transit. Generally speaking, "more is better" when it comes to how often transit runs. But running more service also costs more money. Yet running more service can also attract more ridership, which may help pay for the cost of providing that service. It's a complex relationship.
 
@@ -19,82 +11,72 @@ One key question when figuring out how often to run a transit service is figurin
 - *Trip length:* how far a person is traveling
 - *Service headway:* the number of minutes between buses/trains; note that a higher headway means a lower frequency
 
-Each influences the other two. Let's take a look at 
+Each influences the other two. Let's take a look at each pair of variables.
 
+## Trip frequency vs. trip length
 
+Generally speaking, we can assume that people like to minimize the total amount of time they spend getting from place to place. That time roughly depends on multiplying the length of different types of trips by how often a person makes those trips. As a result, *people take shorter trips more often and longer trips less often*. There are two ways to look at this:
 
+- The more often you take a certain trip, the less tolerance you have for its length, whereas the less often you take it, the longer you're willing to travel.
 
-freq len
-
-Generally speaking, we can assume that people like to minimize the total amount of time they spend getting from place to place. That time roughly depends on multiplying the length of different types of trips by how often a person makes those trips. As a result, people take shorter trips more often and longer trips less often. The more often you take a certain trip, the less tolerance you have for its length, whereas the less often you take it, the longer you're willing to travel.
+- The longer a trip is, the less frequently you will have time to take it, while the shorter a trip is, the more frequently you have time to take it.
 
 It's worth noting that you do get some peculiar effects in here. Specifically, commutes to work can sometimes defy this a bit, in that many people will commute to and from work five days a week regardless of how long the commute is. Yet, it's still the case that people who have very long commutes --- say, greater than 30 mi (50 km) --- may choose to commute only several days per week, working from home on other days. At the other end of the spectrum, commuting between multiple jobs in a single day is much more feasible if the jobs are closer together than if they are far apart.
 
-len head
+This isn't a hugely important point, but one exception to this rule is that people also take very short trips --- say, just a few minutes --- less often than slightly longer ones. This is simply because such a short travel time/distance tends to allow access to only a small range of possible destinations.
 
-We can also assume that people don't like to spend time 
+So overall, trip frequency can be represented by a function where trip frequency declines as trip length increases, except for very short trips. This chart is representative ([source](http://www.princeton.edu/~alaink/Orf467F12/LincolnTravelDemandModel.pdf#page=35)):
 
-freq head
+![Lincoln trip distribution graph]({{site.baseurl}}//images/Lincoln_Trip_Distribution.svg)
 
+This chart is for a travel demand model for the small city of Lincoln, Nebraska. If you were to look at a larger city, the time/distance values would probably increase, but otherwise the releationship would generally stay the same. See [here](https://www.fhwa.dot.gov/planning/tmip/publications/other_reports/multiday_gps/chapter01.cfm#Toc410288763) and [here](http://d2dtl5nnlpfr0r.cloudfront.net/tti.tamu.edu/documents/17-1.pdf#page=19) for more examples.
 
+## Trip frequency vs. service headway
 
+We can also assume that people don't like to spend time waiting for a bus or train to arrive. The total annual time someone spends waiting for a transit service of a certain headway depends on trip frequency multiplied by service headway. (Again, headway is the number of minutes between buses/trains; a higher headway means lower frequency.) Even if someone has a flexible schedule and thus will not spend a large amount of time waiting, less frequent service is still inconvenient, and thus this number is still a proxy for the degree of inconvenience. *Increased trip frequency pairs well with lower service headways, and vice versa*.
 
-The longer a trip is, the less often a person is to take it, which in turn makes a lower frequency acceptable.
+As with the previous point, there are two ways to look at this:
 
+- The more often you take a trip, the more you want it to be frequent, while the less often you take a trip, the more you're willing to deal with infrequent service.
 
-The utility of a transit service for a particular type of trip can be thought of using this formula:
+- The more frequent a service runs, the easier it is to use for short trips. The less often a service runs, the more competitive alternate modes become; it might be faster to walk or bike than to wait.
 
-(service frequency × trip length) ÷ (trip frequency)
+## Trip length vs. service headway
 
-If you hold any two of these variables constant and change the third, you can see how it changes the utility of the transit service. 
+We can combine the two relationships stated above: *longer trips are made less frequently and thus riders will tolerate longer headways*, while *shorter trips are made more frequently and thus transit needs shorter headways* to make people happy and be competitive with other modes.
 
+There's also another interesting psychological factor at play: people like to minimize the portion of their travel time that is spent waiting compared to moving. For example, most people would not wait 30 minutes for a transit trip that will take only 5 minutes. For one thing, it just "feels" ridiculous to spent a majority of your time waiting instead of actually travelling. Furthermore, it greatly increases the variability of the trip time: in this example, the trip could be anywhere from 5 to 35 minutes. Finally, this kind of situation strongly pushes someone toward other modes of transportation, because they don't require waiting and thus will probably be significantly faster.
 
-What does this mean for transit? A few things:
+Long headways for short trips are generally only tolerated if there's no other alternative: if you don't have a car and can't get a ride, if it's the only way to get past a natural obstacle (river, lake, mountain), or if the transit service is able to avoid horrific traffic congestion.
 
-- In order for transit to the competitive for short-distance trips, it must be frequent, period. The only exception here is for service aimed at people will no alternative, like those who are disabled. For everyone else, walking, biking, and driving are more attractive alternatives.
+## Putting it all together
+
+What does this all mean for transit? A few things that were touched on above:
+
+- In order for transit to the competitive for short-distance trips, it must be frequent, period. The only exception here is for service aimed at people with no alternative.
 
 - When you make transit more frequent, you make it more competitive specifically for shorter-length trips, though it's a benefit for trips of all lengths.
 
 - It's okay for longer-distance transit service to run less frequently. 
 
+I want to examine two issues in detail: airport access and the distribution of commuter rail ridership.
 
-This model is a good explanation for commuter rail ridership patterns in many North American cities. In very general sense (with plenty of exceptions!), as you go outward from the city center, both population density and a person's likelihood of working downtown decrease. So you might think that individual station ridership will decrease with distance... yet often the opposite is the case.
+**Airport access really isn't a huge deal for transit.** People love to talk about how important it is to have good transit to airports; I agree that it's a nice thing, but it's far from being critically necessary. While much of this post focused on local and regional travel, the relationships I mentioned still hold for national and international levels, particularly regarding trip frequency vs. trip length: people take longer trips less often. For example, only 2.3% of all trips in Britain are over 50 miles/80 km in length ([source](http://www.icmconference.org.uk/index.php/icmc/icmc2009/paper/viewFile/138/54)). This results in a simple truth: *most people don't fly that often compared to how often they take day-to-day trips*. A lot of air passengers will also prefer to take taxis or hotel shuttles or get rides from friends and family, so the result is that airports aren't nearly as important of transit destinations as many people think. (One of the most important service needs for airports is actually for employees, not air passengers.)
 
+For an example with numbers, let's look at New York City's LaGuardia Airport. People love to get worked up about how LaGuardia has no rapid transit service. In 2014, the New York City Subway had 1.75 billion passengers ([source](http://web.mta.info/nyct/facts/ridership/)). By contrast, LaGuardia handled 26.9 million ([source](http://www.panynj.gov/press-room/press-item.cfm?headLine_id=2158)). So an average subway line in New York sees more passengers than LaGuardia. For the record, I do support improving LaGuardia access, perhaps through the construction of an AirTrain service connecting to existing lines, similar to what JFK and Newark airports have. But LaGuardia's current transit situation just isn't the end of the world, and there are many competing priorities in the city.
 
-you can find a fair number of commuter rail lines where ridership generally increases as you go outward. An commuter rail lines that travel just within city limits tend to have disappointing ridership, while often some of the highest-ridership stations will be at the edge of the system. Why? Simple:
+The concepts outlined in this post also provide a good explanation for commuter rail ridership patterns in many North American cities. In very general sense (with plenty of exceptions!), as you go outward from the city center, both population density and a person's likelihood of working downtown decrease. So you might think that individual station ridership will decrease with distance... yet often the opposite is the case. That is, **you will often find high-ridership commuter rail stations in the outer parts of the system**. Here are several examples:
 
-Think of five-times-per-week work commutes on a line with the same frequency throughout its entire length. Refering to our formula above, the remaining variable is trip length; as the trip length increases, so does the utility of this service.
-To put this into more concrete terms, let's imagine a line that runs every 30 minutes during peak commute hours.
+- Most of the highest-ridership stations on Boston's MBTA commuter rail system are far from downtown Boston, while most of the stations in inner urban areas have low ridership. ([See map here](http://www.mbta.com/uploadedfiles/documents/2014%20BLUEBOOK%2014th%20Edition.pdf#page=74).)
 
-- For urban service (let's say less than 5 mi/8 km), that's a frequency that's way too low, so most people will elect other modes, like driving or taking some other transit line.
-- For service to the far suburbs (let's say over 15 mi/25 km), that's often an acceptable frequency
+- The three highest-ridership stations on the Long Island Rail Road --- Ronkonkoma, Hicksville, and Huntington --- are all quite far from Manhattan. The busiest, Ronkonkoma, is a 66 to 85 minutes away from Manhattan. This, despite the fact that people living in the western parts of Long Island are probably significantly more likely to work in the city than people out east. ([Source](http://www.tstc.org/issues/tod/conference/Ronkonkoma.pdf).)
 
+- A large portion of SEPTA's Regional Rail system is inside the city of Philadelphia, yet few of these stations are particularly high in ridership. When you're inside the city, once-an-hour commuter rail doesn't compete well with local transit service; this is one of several factors causing people who live close to Regional Rail stations to take slower but more frequent city transit services instead. ([Source](http://www.septa.org/strategic-plan/reports/asp16.pdf#page=99); there's no accompanying map so it's kind of hard to see here.)
 
-If you assume frequency is the same for the entire length of the line --- an assumption that isn't always true, but is right often enough that we'll use it here -- 
+There are many factors at play in each of these cases and I won't explain them all right now, so don't read too much into this. The key point is, it's certainly *not* the case that per-station ridership declines with distance from downtown (as we might expect), and *sometimes* you'll see a generally opposite trend.
 
+Many commuter rail lines offer similar service headways along the entire line. And many of the people using these lines are using them for stereotypical commutes to 9-to-5 jobs downtown (and thus a similar trip frequency). Because service headway matters less with increased trip length, these lines are often of greater utility to people living further from downtown. People living closer to downtown, on the other hand, may prefer to take more frequent local transit services (even if they're slower) or just drive. I think many people find organizing their commutes around the schedule of a less-frequent-than-ideal commuter rail line is more okay if it's a longer commute.
 
-Specifically, a lot of lines have a peculiar ridership patter
+## One final note
 
-Another interesting effect:
-If you look within commuter rail systems in the United States, the lines with the highest ridership tend to be those that double as short intercity lines, with the satellite city stations being some of the busiest in the system. This is because commuter rail frequency in the US is generally bad, which depresses ridership, but it's more tolerable for longer-distance journeys, and that effect is magnified when there's a satellite city at the end of the line (due to the larger number of residents at that end, plus the potential for trips where the satellite city is the destination). Some examples:
-
-- MBTA: The busiest lines are the Providence/Stoughton and Framingham/Worcester lines [double check!]. Providence is the busiest station outside downtown Boston, with Boston's other satellite cities (including Worcester and Lowell) almost among the busiest stations. Meanwhile many of the least-bust stations in the system are inside or very near Boston.
-The frequency is adequate for trips to/from Boston's satellie cities, but not good for trips within Boston and its adjacent communities.
-- Metro-North
-Frequency to Stamford and New Haven is fine... not for the Bronx
-- NJT: NEC (Trenton, New Brunswick freq is fine)
-NJT isn't the greatest example becasuse of the difficulty of crossing the Hudson (this inflates ridership in the inner suburbs)
-- MARC (Penn Line; Baltimore dominates... vs New Carrolton is sad)
-- SEPTA (Wilmington, Trenton)
-- Metra: Aurora and Naperville?
-
-
-
-I don't claim my formula is a perfect explanation for commuter rail ridership patterns, as there are many, many confounding variables. But I do think it helps provide part of the explanation, and the formula is nonetheless a pretty solid principle for transit operations in general.
-
-
-Add somewhere:
-We see this effect with flights too. It's okay for a transcontinental flight to only run once per day, whereas flights between New York and Chicago need to be much more frequent. People take shorter flights more often and longer flights less often, and they're willing to tolerate more inconventient departure times for longer flights because they take those flights less often and the inconvenience is relatively smaller in the context of the trip due to the increased amount of time spent in the air.
-
-
-
+We see this effect with flight lengths too. It's okay for a transcontinental flight to only run once per day, whereas flights between New York and Chicago need to be much more frequent. People take shorter flights more often and longer flights less often, and they're willing to tolerate more inconventient departure times for longer flights because they take those flights less often and the inconvenience is relatively smaller in the context of the trip due to the increased amount of time spent in the air.
