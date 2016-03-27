@@ -62,5 +62,5 @@ Some blogs I follow:
 
 * [Human Transit](http://www.humantransit.org/) (Jarrett Walker)
 * [Pedestrian Observations](http://pedestrianobservations.wordpress.com/) (Alon Levy)
-* [Urban Kchoze](http://urbankchoze.blogspot.com/)
+* [Urban Kchoze](http://urbankchoze.blogspot.com/) (Simon Vallée)
 * [Streetsblog](http://www.streetsblog.org/)
