@@ -8,6 +8,7 @@ layout: post
 Discussions about urban geography and planning often include the term _urban_. But what do we mean when we say "urban," and what is the alternative or opposite? And how can you examine a place and determine whether or not it's urban?
 
 I've spent a lot of time thinking about this and have decided that it really involves a mix of four distinct factors:
+
 - Density
 - Regional population
 - "Soft factors": architecture, urban design, social issues
@@ -45,6 +46,7 @@ Job density is also a great figure because it is a proxy for several other thing
 ## Regional population
 
 An alternative way of approaching this issue is from a broader perspective: classifying entire regions as urban. The Census Bureau does this.
+
 - They [define](https://www.census.gov/geo/reference/gtc/gtc_urbanrural.html) an _urbanized area_ as "densely developed territory that contains 50,000 or more people." The density isn't really that important as long as the area is continuously built-up, and thus this includes many areas that would be considered suburban by the population density standard.
 - The Census Bureau also has a concept called _urban clusters_: "densely developed territory that has at least 2,500 people but fewer than 50,000 people." This is mainly to capture towns that lie outside of urbanized areas but are still of a non-trivial size.
 - Any place that is not part of an urbanized area or urban cluster is considered _rural_.
@@ -57,6 +59,7 @@ This classification approach misses most details about whether or not you'd call
 Beyond the quantitative factors listed above, there are many subjective issues --- particularly regarding appearance --- that affect how urban a place feels. (For now, I'll exclude most attributes associated with transportation, as that gets a whole section.)
 
 Things that make a place feel "urban," depending on who you talk to, include:
+
 - Skyscrapers
 - Public housing, especially if it's in a group of large buildings (sometimes nicknamed "the projects")
 - Large train stations and bus terminals
@@ -124,6 +127,7 @@ In terms of street geometry, bikes and transit can sometimes run into problems, 
 ### Conflict between pedestrians and bicyclists
 
 Walking and biking are often thought of together, but unfortunately they do come into conflict. There are a number of places where this is true, among them:
+
 - multi-use trails
 - pedestrians plazas
 - sidewalks (specifically, people biking on them)
