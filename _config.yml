@@ -17,3 +17,10 @@ redcarpet:
 
 # Custom
 permalink: /blog/:year/:month/:day/:title/
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
