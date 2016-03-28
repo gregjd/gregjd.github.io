@@ -72,7 +72,7 @@ As noted in the FiveThirtyEight/Trulia study, "Residents of lower-income neighbo
 
 The list of attributes that make a place seem "suburban" isn't as long or salient as the urban list, but a prominent example might be vinyl siding --- and more generally, cheap building materials. Of course, this can also be found in plenty of big cities. For example, the Philadelphia Housing Authority has created a number of developments that include cookie-cutter suburban-style houses:
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m13!1m11!1m3!1d362.59902680222876!2d-75.1572843227365!3d39.966158525358715!2m2!1f0!2f41.639457259737625!3m2!1i1024!2i768!4f20!5e1!3m2!1sen!2sus!4v1459127486995" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe><br>
+<iframe src="https://www.google.com/maps/embed?pb=!1m13!1m11!1m3!1d750.3869094389956!2d-75.15740351873548!3d39.969324750096774!2m2!1f0!2f41.50514477363447!3m2!1i1024!2i768!4f20!5e1!3m2!1sen!2sus!4v1459137249804" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe><br>
 
 I've never been a fan.
 
