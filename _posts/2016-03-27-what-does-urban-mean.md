@@ -1,6 +1,7 @@
 ---
 published: true
 title: "What does 'urban' mean?"
+layout: post
 ---
 
 
