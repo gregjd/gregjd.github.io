@@ -25,6 +25,7 @@ Where do you draw the lines between urban, suburban, and rural? FiveThirtyEight/
 > Our analysis showed that the single best predictor of whether someone said his or her area was urban, suburban or rural was ZIP code density. Residents of ZIP codes with more than 2,213 households per square mile typically described their area as urban. Residents of neighborhoods with 102 to 2,213 households per square mile typically called their area suburban. In ZIP codes with fewer than 102 households per square mile, residents typically said they lived in a rural area.
 
 See their analysis of Houston:
+
 ![Houston metro area FiveThirtyEight image](/images/Houston_Urban_Breakdown_538.png)
 
 Their findings seem to make intuitive sense, matching the popular perception of older northern cities as more urban and newer Sunbelt cities as suburban:
@@ -71,7 +72,7 @@ As noted in the FiveThirtyEight/Trulia study, "Residents of lower-income neighbo
 
 The list of attributes that make a place seem "suburban" isn't as long or salient as the urban list, but a prominent example might be vinyl siding --- and more generally, cheap building materials. Of course, this can also be found in plenty of big cities. For example, the Philadelphia Housing Authority has created a number of developments that include cookie-cutter suburban-style houses:
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m13!1m11!1m3!1d362.59902680222876!2d-75.1572843227365!3d39.966158525358715!2m2!1f0!2f41.639457259737625!3m2!1i1024!2i768!4f20!5e1!3m2!1sen!2sus!4v1459127486995" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m13!1m11!1m3!1d362.59902680222876!2d-75.1572843227365!3d39.966158525358715!2m2!1f0!2f41.639457259737625!3m2!1i1024!2i768!4f20!5e1!3m2!1sen!2sus!4v1459127486995" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe><br>
 
 I've never been a fan.
 
@@ -100,11 +101,11 @@ Silver Spring, MD (which borders DC) is one of the best examples. It's a very de
 
 It's not so great for pedestrians and bicyclists. Turn around from the Metro station and you're greeted with wide suburban arterials roads that are quite a challenge to cross and don't do much to slow car speeds.
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m0!3m2!1sen!2sus!4v1459130824778!6m8!1m7!1s0KmecNm_mJdi9iWtqkCvIQ!2m2!1d38.99466271596926!2d-77.03058187843575!3f56.939399348409694!4f-4.92820543017686!5f0.7820865974627469" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m0!3m2!1sen!2sus!4v1459130824778!6m8!1m7!1s0KmecNm_mJdi9iWtqkCvIQ!2m2!1d38.99466271596926!2d-77.03058187843575!3f56.939399348409694!4f-4.92820543017686!5f0.7820865974627469" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe><br>
 
 This pattern can be found throughout the DC suburbs. Over in Arlington, Crystal City consists of many large buildings in close proximity to a Metro station (again, with frequent service). Yet it centers on an enormous highway.
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m0!3m2!1sen!2sus!4v1459131436873!6m8!1m7!1sEWd9Q1umjTX_6tKd3LosWw!2m2!1d38.85626347959619!2d-77.05229274402176!3f147.82750223278327!4f4.43524600848869!5f0.7820865974627469" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m0!3m2!1sen!2sus!4v1459131436873!6m8!1m7!1sEWd9Q1umjTX_6tKd3LosWw!2m2!1d38.85626347959619!2d-77.05229274402176!3f147.82750223278327!4f4.43524600848869!5f0.7820865974627469" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe><br>
 
 It's a total abomination for pedestrians and bicyclists. And the highway is named after Confederate president [Jefferson Davis](https://en.wikipedia.org/wiki/Jefferson_Davis)!
 
