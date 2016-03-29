@@ -5,6 +5,7 @@ layout: post
 ---
 
 
+
 Discussions about urban geography and planning often include the term _urban_. But what do we mean when we say "urban," and what is the alternative or opposite? And how can you examine a place and determine whether or not it's urban?
 
 I've spent a lot of time thinking about this and have decided that it really involves a mix of four distinct factors:
@@ -144,10 +145,8 @@ From a statistical perspective, the first two factors (density and regional popu
 
 How will this affect the language I use?
 
-- I will try not to say that places "seem urban"
-- I will try to use as specific language as possible
-- I will use "promoting urbanism" to mean something like "making a place more pedestrian-, bike-, and transit-friendly and increasing density" --- or as Andrew Price put it, [increasing the ratio of places to non-places](http://www.andrewalexanderprice.com/blog20121015.php#.VvhOgPkrLs0)
+- I will try not to say that places "seem urban."
+- I will try to use as specific language as possible.
+- I will use "promoting urbanism" to mean something like "making a place more pedestrian-, bike-, and transit-friendly and increasing density" --- or as Andrew Price put it, [increasing the ratio of places to non-places](http://www.andrewalexanderprice.com/blog20121015.php#.VvhOgPkrLs0). As much as I like using specific language, it's also nice to not have to repeat a verbose description over and over, so I'm pretty fine with saying "urbanism" with this specific meaning in mind. (See [Jarrett Walker's post](http://humantransit.org/2014/01/questionable-word-watch-urbanism.html) on this issue.)
 
 What do you think?
-
-
