@@ -62,6 +62,7 @@ Some blogs I follow:
 
 * [Human Transit](http://www.humantransit.org/) (Jarrett Walker)
 * [Pedestrian Observations](http://pedestrianobservations.wordpress.com/) (Alon Levy)
+* [Ben Balter's blog](http://ben.balter.com/) (Ben Balter)
 * [Urban Kchoze](http://urbankchoze.blogspot.com/) (Simon Vallée)
 * [Paul Graham's essays](http://paulgraham.com/articles.html) (Paul Graham)
 * [Mapbox's blog](https://www.mapbox.com/blog/)
