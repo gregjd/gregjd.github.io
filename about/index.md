@@ -10,9 +10,9 @@ order: 1
 
 Hi!
 
-I'm Greg, a developer and designer living in Providence.
+I'm Greg, a developer, data/GIS analyst, and designer living in Providence.
 
-I work at [DataSpark](http://datasparkri.org/), where my work is primarily in data analysis, mapping, and design. I am also a part-time instructor at [Mathnasium of East Providence](http://www.mathnasium.com/eastprovidence), where I provide tutoring for students in grades 1-12. I am involved in [Code Island](http://code-island.org/), Code for America's Rhode Island brigade. I graduated Brown University in May 2014 with a double major in Urban Studies and Geological Sciences.
+I work at [DataSpark](http://datasparkri.org/), where my work is primarily in data processing and analysis, mapping, and design. I am also a part-time instructor at [Mathnasium of East Providence](http://www.mathnasium.com/eastprovidence), where I provide tutoring for students in grades 1–12. I am involved in [Code Island](http://code-island.org/), Code for America's Rhode Island brigade. I graduated Brown University in May 2014 with a double major in Urban Studies and Geological Sciences.
 
 My intellectual interests broadly fall in three areas: geography, design, and computation.
 
