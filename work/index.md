@@ -16,7 +16,7 @@ Below is a selection of my projects and work:
 
 #### FrequentFinder
 
-FrequentFinder takes a system’s Google transit data and generates a map of services that operate frequently. Its primary components are a Python program that computes the frequent network and generates a GeoJSON export, a Mapbox (JavaScript) script that creates an interactive map, and a D3 (JavaScript) script that creates an SVG. This project involves complex problems in graph theory, visualization, and transit system geometry.
+FrequentFinder takes a transit system’s GTFS (Google transit) data and generates a map of services that operate frequently. At its core is a Python program that computes the frequent network and generates a GeoJSON export. This project involves complex problems in graph theory, visualization, and transit system geometry. Planned additions include a script that creates an interactive Mapbox map and a D3 script that creates an SVG. 
 
 [Check out the code on GitHub](https://github.com/gregjd/frequent-finder)  
 *Coming soon: Check out an interactive frequent service map*
