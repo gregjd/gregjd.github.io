@@ -2,8 +2,8 @@
 title: Greg Jordan-Detamore
 email: greg@gregjd.com
 description: > # this means to ignore newlines until "baseurl:"
-  Greg is a developer and designer interested in civic technology, 
-  transportation, and planning.
+  Greg is a developer, data/GIS analyst, and designer 
+  interested in civic technology and geography.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://www.gregjd.com" # the base hostname & protocol for your site
 twitter_username: gjordandetamore
