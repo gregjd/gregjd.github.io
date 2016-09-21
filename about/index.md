@@ -10,9 +10,11 @@ order: 1
 
 Hi!
 
-I'm Greg, a developer, data/GIS analyst, and designer living in Providence.
+I'm Greg, a developer, data/GIS analyst, and designer living in DC.
 
-I work at [DataSpark](http://datasparkri.org/), where my work is primarily in data processing and analysis, mapping, and design. I am also a part-time instructor at [Mathnasium of East Providence](http://www.mathnasium.com/eastprovidence), where I provide tutoring for students in grades 1–12. I am involved in [Code Island](http://code-island.org/), Code for America's Rhode Island brigade. I graduated Brown University in May 2014 with a double major in Urban Studies and Geological Sciences.
+I work at the [Sunlight Foundation](http://sunlightfoundation.com/) as a Local Data Technologist — the tech lead on the local policy team. My work includes a mix of data processing, data analysis, data visualization, web/software development, and communications. Our team is helping local governments craft open-data policies as part of the [What Works Cities](https://whatworkscities.bloomberg.org/about/) project.
+
+I previously worked at [DataSpark](http://datasparkri.org/) in Providence and was a dedicated member of [Code Island](http://code-island.org/), Code for America's Rhode Island brigade. I graduated Brown University in May 2014 with a double major in Urban Studies and Geological Sciences.
 
 My intellectual interests broadly fall in three areas: geography, design, and computation.
 
@@ -29,7 +31,7 @@ In terms of practical applications, I am most interested in civic technology, tr
 
 ### Résumé and Projects
 
-[Check out a PDF of my résumé.](/pdfs/resume.pdf)
+[Check out a PDF of my résumé](/pdfs/resume.pdf), last updated May 2016.
 
 Please see my [work page](/work/) for a selected list of projects I've done.
 
