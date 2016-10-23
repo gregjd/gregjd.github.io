@@ -1,9 +1,8 @@
 ---
-published: true
-title: "Trip frequency, trip length, and transit service headways"
+title: Trip frequency, trip length, and transit service headways
+date: 2016-03-20 00:00:00 Z
 layout: post
 ---
-
 
 Frequency is a crucially important factor in the usefulness of transit. Generally speaking, "more is better" when it comes to how often transit runs. (As transit planner Jarrett Walker says, [frequency](http://humantransit.org/2010/08/basics-the-case-for-frequency-mapping.html) is [freedom](http://reconnectingamerica.org/news-center/half-mile-circles/2011/jarrett-walker-frequency-is-freedom/).) But running more service also costs more money. Yet running more service can also attract more ridership, which may help pay for the cost of providing that service. It's a complex relationship.
 

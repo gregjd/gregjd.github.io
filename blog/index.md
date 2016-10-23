@@ -1,10 +1,9 @@
 ---
-layout: page
 title: Blog
 permalink: blog/
+layout: page
 order: 3
 ---
-
 
 This blog will cover a variety of topics that come to mind, including tech, transportation, cities, government, design, geography, and education.
 

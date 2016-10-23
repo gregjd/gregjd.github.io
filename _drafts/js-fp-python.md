@@ -1,12 +1,11 @@
 ---
+title: How JavaScript and functional programming have influenced my Python
+date: 2016-10-23 23:29:55.386000000 Z
+categories:
+- jekyll
+- update
 layout: post
-title:  "How JavaScript and functional programming have influenced my Python"
-categories: jekyll update
 ---
-
-
-
-
 
 Yet over the course of the three introductory computer science courses I took, we never covered these topics.
 They're so powerful! I wish they were more widely taught.

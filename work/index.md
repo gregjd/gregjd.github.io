@@ -1,10 +1,9 @@
 ---
-layout: page
 title: Work
 permalink: work/
+layout: page
 order: 2
 ---
-
 
 Below is a selection of my projects and work:
 

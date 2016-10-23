@@ -1,10 +1,8 @@
 ---
-published: true
-title: "What does 'urban' mean?"
+title: What does 'urban' mean?
+date: 2016-03-27 00:00:00 Z
 layout: post
 ---
-
-
 
 Discussions about urban geography and planning often include the term _urban_. But what do we mean when we say "urban," and what is the alternative or opposite? And how can you examine a place and determine whether or not it's urban?
 

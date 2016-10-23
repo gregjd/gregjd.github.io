@@ -1,26 +1,30 @@
-# Site settings
+---
 title: Greg Jordan-Detamore
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+defaults:
+- scope:
+    path: ''
+    type: posts
+  values:
+    layout: post
 email: greg@gregjd.com
-description: > # this means to ignore newlines until "baseurl:"
-  Greg is a developer, data/GIS analyst, and designer 
-  interested in civic technology and geography.
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://www.gregjd.com" # the base hostname & protocol for your site
-twitter_username: gjordandetamore
-github_username:  gregjd
+description: 'Greg is a developer, data/GIS analyst, and designer  interested in civic
+  technology and geography.
 
-# Build settings
-# markdown: kramdown
+'
+baseurl: ''
+url: http://www.gregjd.com
+twitter_username: gjordandetamore
+github_username: gregjd
 markdown: redcarpet
 redcarpet:
-  extensions: ["smart"]
-
-# Custom
-permalink: /blog/:year/:month/:day/:title/
-defaults:
-  -
-    scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "post"
+  extensions:
+  - smart
+permalink: "/blog/:year/:month/:day/:title/"
