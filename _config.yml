@@ -14,6 +14,7 @@ defaults:
     type: posts
   values:
     layout: post
+    comments: true
 email: greg@gregjd.com
 description: 'Greg is a developer, data/GIS analyst, and designer  interested in civic
   technology and geography.
@@ -28,3 +29,6 @@ redcarpet:
   extensions:
   - smart
 permalink: "/blog/:year/:month/:day/:title/"
+
+# Disqus post comments
+disqus_shortname: username
