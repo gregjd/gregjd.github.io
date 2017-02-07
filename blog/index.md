@@ -38,10 +38,29 @@ Transportation, cities, and regions:
 * A potential vision for rail service on the Northeast Corridor, integrating everything from high-speed and long-distance rail to short-distance commuter services.
 * Why the "last mile" problem in urban transit isn't nearly as much of a problem as people think, and can actually be a good thing. (Basically, elaborating on [this post](http://urbankchoze.blogspot.com/2014/11/how-i-learned-to-stop-worrying-and-love.html).)
 * My categorization of the three primary non-industrial land uses, and how their spatial distribution can best be matched to transit service. (An elaboration on both [this post](http://urbankchoze.blogspot.com/2015/06/in-defense-of-use-separation.html) and [this one](https://pedestrianobservations.wordpress.com/2012/05/24/destination-centralization/).)
+* Navigating the transit systems of Paris, Barcelona, and Madrid.
+
+Geography:
+
+* Correcting misconceptions: Why most rural Americans live in the East, not the West (and most live in large states, not small ones)
+* What constitutes a local government? Understanding cities, counties, county equivalents, etc.
+* What assets should count as local vs. regional?
+
+Public lands and natural beauty:
+
+* An explanation of the four federal land-management agencies.
+* An explanation of what exactly National Monuments are.
+* Great public lands that are _not_ National Parks (other NPS, BLM, USFS, FWS, state — probably each a separate post).
+* Why the West is more scenic than the East.
+
+Government and technology:
+
+* My concept for a field of Government Design ("GovDesign").
+* The relationship between OpenGov, GovDesign, and GovTech.
 
 Education and math:
 
-* My observations about math education and number sense, after having been a math tutor for 10 months.
+* My observations about math education and number sense, after having been a math tutor for a year and a half.
 * Some of the techniques I show my students about doing arithmetic in ways that rely on dealing with the actual quantities, especially ones that are helpful for doing mental math, in contrast to some traditional pencil-and-paper methods like long division. 
 * How I came to love 0-indexing of numbering, and why I think being concious of the usage of 0-indexing vs. 1-indexing in everyday life (and incorporating more 0-indexing) can be very helpful. Also included in this discussion are closed, half-closed, and open intervals, and discrete vs. continuous data.
 * Philosophy of science, and how I see the different fields of science relating to each other in different ways. (A modified version of [this diagram](https://commons.wikimedia.org/wiki/File:Partial_ordering_of_the_sciences_Balaban_Klein_Scientometrics2006_615-637.svg).)
