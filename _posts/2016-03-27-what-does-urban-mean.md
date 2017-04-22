@@ -1,6 +1,5 @@
 ---
 title: What does 'urban' mean?
-date: 2016-03-27 00:00:00 Z
 layout: post
 ---
 

@@ -1,9 +1,5 @@
 ---
 title: Hello, world!
-date: 2015-07-21 00:00:00 Z
-categories:
-- jekyll
-- update
 layout: post
 ---
 

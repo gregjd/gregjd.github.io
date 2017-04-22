@@ -1,9 +1,5 @@
 ---
 title: The problem with GTFS transit mode categories
-date: 2015-08-18 00:00:00 Z
-categories:
-- jekyll
-- update
 layout: post
 ---
 

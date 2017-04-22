@@ -1,6 +1,5 @@
 ---
 title: Trip frequency, trip length, and transit service headways
-date: 2016-03-20 00:00:00 Z
 layout: post
 ---
 

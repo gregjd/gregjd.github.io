@@ -1,6 +1,4 @@
 ---
-title: Types Transit
-date: 2016-10-23 23:29:55.420000000 Z
 ---
 
 Post

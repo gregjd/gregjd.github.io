@@ -1,8 +1,8 @@
 ---
 title: How reading 'Human Transit' made me a better philosopher
-date: 2016-03-27 00:00:00 Z
 published: false
 ---
+
 
 Transit planner Jarrett Walker is the author of the excellent [blog](http://humantransit.org/) and [book](http://humantransit.org/book) _Human Transit_. I've been reading his blog for years, and recently finished the book. Jarrett's writings have had a profound impact on my thinking about transit --- challenging, clarifying, and expanding it. But what has been more surprising is that many of the lessons go far beyond transit; _Human Transit_ has made me a better philosopher in numerous ways:
 
