@@ -1,12 +1,29 @@
-3 posts
+Posts soon:
+- Land-management agencies
+
+In between:
+- Gov design, etc. (~3 posts?)
+
+Then post:
+- Beyond the National Parks
+    1. Intro
+    2. Other NPS
+    3. BLM
+    4. FS
+    5. FWS
+    6. State
+
+Future posts:
+- National monuments, explained
+- Why FS should move to Interior
+- Series on NPS renamings:
+    - National parks aren't what you think / Debunking stereotypes about National Parks
+    - Rename (with specific examples)
+- What's the best way to preserve land (usually not a national parks)
+
 
 
 0. Federal land - more than just national parks / There's more to public land than just national parks / National parks, monuments, forests, and wildlife refuges: what's the difference?
-1. National parks aren't what you think / Debunking stereotypes about National Parks
-2. Stop obsessing over National Parks / Looking beyond the National Parks
-3. Rename
-4. Cool places you probably haven't heard of
-Other: National Monument is a terrible name; Why the Forest Service should move to the Department of the Interior
 
 
 0
@@ -111,6 +128,8 @@ availablity of information
 
 # Land designations that span agencies:
 
+In addition to the <stuff> above, there are some land designations that span agencies. / Additional systems
+
 ## National Monuments
 
 [Link to wiki]()
@@ -136,7 +155,7 @@ The BLM has the authority to create *Wilderness Study Areas*, which carry simila
 
 ## National Wild and Scenic Rivers System
 
-The [National Wild and Scenic Rivers System](https://en.wikipedia.org/wiki/National_Wild_and_Scenic_Rivers_System) consists of free-flowing rivers recognized for their wild, scenic, or recreational nature. Designation as such provides some level of protection against the creation of dams and alteration of riverbanks and channels. Each river is managed by one of the four land-management agencies or by a state government. Inclusion in the system does not necessariy imply land ownership on behalf of the managing agency, and private property rights continue to exist.
+The [National Wild and Scenic Rivers System](https://en.wikipedia.org/wiki/National_Wild_and_Scenic_Rivers_System) consists of free-flowing rivers recognized for their wild, scenic, or recreational nature. Designation as such provides some level of protection against the creation of dams and alteration of riverbanks and channels. Each river is managed by one of the four land-management agencies or by a state government. Inclusion in the system does not necessarily imply land ownership on behalf of the managing agency, and private property rights continue to exist.
 
 ## National Trails System
 
