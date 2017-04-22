@@ -22,7 +22,6 @@ Future posts:
 - What's the best way to preserve land (usually not a national parks)
 
 
-
 0. Federal land - more than just national parks / There's more to public land than just national parks / National parks, monuments, forests, and wildlife refuges: what's the difference?
 
 
