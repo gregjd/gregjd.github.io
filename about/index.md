@@ -33,7 +33,7 @@ In terms of practical applications, I am most interested in civic technology, tr
 
 See [LinkedIn](https://www.linkedin.com/in/greg-jordan-detamore-a20a4236/) for my résumé.
 
-Please see my [work page](/work/) for a selected list of projects I've done.
+See my [work page](/work/) for a selected list of projects I've done.
 
 ### Connect
 
