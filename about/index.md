@@ -31,7 +31,7 @@ In terms of practical applications, I am most interested in civic technology, tr
 
 ### Résumé and Projects
 
-[Check out a PDF of my résumé](/pdfs/resume.pdf), last updated May 2016.
+See [LinkedIn](https://www.linkedin.com/in/greg-jordan-detamore-a20a4236/) for my résumé.
 
 Please see my [work page](/work/) for a selected list of projects I've done.
 
