@@ -24,10 +24,7 @@ baseurl: ''
 url: http://www.gregjd.com
 twitter_username: gjordandetamore
 github_username: gregjd
-markdown: redcarpet
-redcarpet:
-  extensions:
-  - smart
+markdown: kramdown
 permalink: "/blog/:year/:month/:day/:title/"
 
 # Disqus post comments
