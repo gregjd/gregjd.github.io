@@ -29,3 +29,7 @@ permalink: "/blog/:year/:month/:day/:title/"
 
 # Disqus post comments
 disqus_shortname: username
+
+# Gems
+gems:
+  - jekyll-seo-tag
