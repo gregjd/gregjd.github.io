@@ -33,3 +33,13 @@ disqus_shortname: username
 # Gems
 gems:
   - jekyll-seo-tag
+
+# Other
+twitter:
+  username: gjordandetamore
+logo: /images/Profile_Pic_Square.png
+social:
+  name: Greg Jordan-Detamore
+  links:
+    - https://twitter.com/GJordanDetamore
+    - https://github.com/gregjd

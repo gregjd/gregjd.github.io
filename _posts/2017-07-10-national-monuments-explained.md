@@ -1,6 +1,8 @@
 ---
 title: National Monuments, explained
 excerpt: What are they, what protections do they provide, and where does the land come from?
+description: What are they, what protections do they provide, and where does the land come from?
+image: /images/John_Day_Fossil_Beds.jpg
 ---
 
 ![The Painted Hills of the John Day Fossil Beds National Monument in Oregon](/images/John_Day_Fossil_Beds.jpg)
