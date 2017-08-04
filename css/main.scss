@@ -7,12 +7,12 @@
 
 // Import fonts
 @font-face{font-family:"open_sanslight";
-  src:url("../fonts/open-sans/opensans-light-webfont.eot");
-  src:url("../fonts/open-sans/opensans-light-webfont.eot?#iefix") format("embedded-opentype"),
-    url("../fonts/open-sans/opensans-light-webfont.woff2") format("woff2"),
-    url("../fonts/open-sans/opensans-light-webfont.woff") format("woff"),
-    url("../fonts/open-sans/opensans-light-webfont.ttf") format("truetype"),
-    url("../fonts/open-sans/opensans-light-webfont.svg#open_sanslight") format("svg");
+  src:url("/fonts/open-sans/opensans-light-webfont.eot");
+  src:url("/fonts/open-sans/opensans-light-webfont.eot?#iefix") format("embedded-opentype"),
+    url("/fonts/open-sans/opensans-light-webfont.woff2") format("woff2"),
+    url("/fonts/open-sans/opensans-light-webfont.woff") format("woff"),
+    url("/fonts/open-sans/opensans-light-webfont.ttf") format("truetype"),
+    url("/fonts/open-sans/opensans-light-webfont.svg#open_sanslight") format("svg");
 font-weight:normal;
 font-style:normal;
 }
