@@ -82,8 +82,10 @@ Some blogs I follow:
 
 * [Human Transit](http://www.humantransit.org/) (Jarrett Walker)
 * [Pedestrian Observations](http://pedestrianobservations.wordpress.com/) (Alon Levy)
-* [Ben Balter's blog](http://ben.balter.com/) (Ben Balter)
+* [Greater Greater Washington](http://greatergreaterwashington.org/)
 * [Urban Kchoze](http://urbankchoze.blogspot.com/) (Simon Vallée)
+* [Parks and Cities](https://www.parksandcities.com/) (Matt Raifman)
+* [Ben Balter's blog](http://ben.balter.com/) (Ben Balter)
 * [Paul Graham's essays](http://paulgraham.com/articles.html) (Paul Graham)
 * [Mapbox's blog](https://www.mapbox.com/blog/)
 * [Mapzen's blog](https://mapzen.com/blog)
@@ -91,5 +93,4 @@ Some blogs I follow:
 * [Muniology](https://muniology.wordpress.com/) (Eric Caruso)
 * [Systemic Failure](https://systemicfailure.wordpress.com/)
 * [Old Urbanist](http://oldurbanist.blogspot.com/) (Charlie Gardner)
-* [Greater Greater Washington](http://greatergreaterwashington.org/)
 * [Streetsblog](http://www.streetsblog.org/)
