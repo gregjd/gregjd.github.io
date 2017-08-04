@@ -28,6 +28,8 @@ The NPS manages the *National Park System*. Despite the name, this system is mor
 
 Most *National Recreation Areas* either surround reservoirs (and focus on water-based recreation) or are located in urban areas. NRAs, *National Preserves*, *National Seashores*, *National Lakeshores*, and certain other units are similar to National Parks and National Monuments, but in some cases they have looser regulations. The NPS also manages many historical and cultural sites, but those are usually much smaller areas.
 
+{% include image.html file="cuyahoga-valley-np-sign.jpg" source="https://commons.wikimedia.org/wiki/File:Cuyahoga_Valley_welcome_sign.jpg" alt="Entrance sign at Cuyahoga Valley National Park" caption="Cuyahoga Valley National Park used to be a National Recreation Area." credit="David Fulmer" %}
+
 The units designated as National Parks are *not* considered by the NPS to be on a "higher tier" than other units — that's a notion perpetuated by the public and the media. There is no "system" of 59 National Parks; rather, 59 units of the National Park System happen to carry the title National Park. Unit titles are given by Congress, and which ones are National Parks is intensely political.
 
 About two-thirds of the NPS's land lies in Alaska, although those parks get few visitors.
