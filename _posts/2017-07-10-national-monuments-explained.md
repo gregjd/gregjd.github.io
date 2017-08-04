@@ -33,7 +33,7 @@ The rest of this post will largely be oriented toward National Monuments that pr
 
 ## What protections do they provide?
 
-National Monuments have generally banned extractive activities like mining, drilling, logging, and grazing — with an exception for existing operations.
+National Monuments have generally banned extractive activities like mining, drilling, logging, and grazing — with an exception for existing operations. They also tend to limit off-road vehicle use and prevent the land from being sold off.
 
 Whether or not hunting is allowed depends on which agency is managing the land. (National Park Service monuments generally don't allow hunting, while others generally do.)
 
@@ -45,7 +45,7 @@ There's a lot of latitude in deciding what uses are allowed in monuments, and th
 Most National Monuments are managed by one of three agencies: the [National Park Service (NPS)](https://en.wikipedia.org/wiki/National_Park_Service), the [Bureau of Land Management (BLM)](https://en.wikipedia.org/wiki/Bureau_of_Land_Management), or the [United States Forest Service (USFS)](https://en.wikipedia.org/wiki/United_States_Forest_Service).
 A small number are managed by the [Fish and Wildlife Service (FWS)](https://en.wikipedia.org/wiki/United_States_Fish_and_Wildlife_Service) or other agencies.
 
-For the NPS, a National Monument is an actual park unit. For the BLM and USFS, National Monuments are overlay designations on existing BLM/USFS-owned land; for example, the USFS's [Mount St. Helens National Volcanic Monument](https://en.wikipedia.org/wiki/Mount_St._Helens_National_Volcanic_Monument) was created out of, and remains part of, Gifford Pinchot National Forest.
+For the NPS, a National Monument is an actual park unit; creating one requires acquiring land, often via transfer from one of the other agencies. For the BLM and USFS, National Monuments are overlay designations on existing BLM/USFS-owned land; for example, the USFS's [Mount St. Helens National Volcanic Monument](https://en.wikipedia.org/wiki/Mount_St._Helens_National_Volcanic_Monument) is a section of Gifford Pinchot National Forest.
 
 
 ## Where does the land come from?
@@ -83,8 +83,6 @@ It's worth noting that the highest level of protection that can be given to land
 Creating new National Monuments often means placing restrictions on land use. As you can imagine, some people who live nearby are not thrilled about that — fearing the economic impacts of losing nearby land for drilling, mining, and grazing, and any effects that might have on the local economy.
 
 On the other side of the debate, people feel that National Monuments are a crucial tool for protecting land from potential extractive uses. Additionally, new monuments may be an [economic boon thanks to new tourism](http://www.sltrib.com/opinion/5477759-155/op-ed-grand-staircase-escalante-national-monument-has). Both those reasons are why people are worried about Trump's threats to downsize existing National Monuments.
-
-If you're reading this on Monday, July 10, 2017, note that public comment ends today on the Interior Department's review of existing monuments; head on over to [Regulations.gov](https://www.regulations.gov/document?D=DOI-2017-0002-0001) to leave your thoughts before midnight!
 
 
 ## Where can I get more details?
