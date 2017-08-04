@@ -24,7 +24,7 @@ I will now discuss each agency's lands in detail.
 
 The NPS manages the *National Park System*. Despite the name, this system is more than just the 59 "National Parks" — it has over 400 units with [over 30 different designations](https://www.everycrsreport.com/reports/R41816.html).
 
-*National Parks* and *National Monuments* are, for all intents and purposes, the same. They are the most restrictive; they usually ban resource extraction, off-road vehicle use, and sport hunting. Monuments tend to be smaller, but there's a lot of variance. See my [previous post](http://www.gregjd.com/blog/2017/07/10/national-monuments-explained/) for more detail on National Monuments.
+*National Parks* and *National Monuments* are, for all intents and purposes, the same. They are the most restrictive; they usually ban resource extraction, off-road vehicle use, and sport hunting. Monuments tend to be smaller than Parks, but there's a lot of variance. See my [previous post](http://www.gregjd.com/blog/2017/07/10/national-monuments-explained/) for more detail on National Monuments.
 
 Most *National Recreation Areas* either surround reservoirs (and focus on water-based recreation) or are located in urban areas. NRAs, *National Preserves*, *National Seashores*, *National Lakeshores*, and certain other units are similar to National Parks and National Monuments, but in some cases they have looser regulations. The NPS also manages many historical and cultural sites, but those are usually much smaller areas.
 
@@ -44,7 +44,7 @@ Most FWS land (86%) is located in Alaska. In the rest of the U.S., most refuges 
 
 ## U.S. Forest Service (USFS/FS)
 
-The USFS manages the *National Forest System*, which includes *National Forests* and *National Grasslands*. The USFS also has land designated as National Monuments and National Recreation Areas, but these are overlay designations on National Forests, not independent units (as is the case for the NPS). Each National Forest/Grassland is divided into *ranger districts*.
+The USFS manages the *National Forest System*, which includes *National Forests* and *National Grasslands*. The USFS also has land designated as *National Monuments* and *National Recreation Areas*, but these are overlay designations on National Forests/Grasslands, not independent units (as is the case for the NPS). Each National Forest/Grassland is divided into *ranger districts*.
 
 {% include image.html file="el-yunque-nf-entrance-sign.jpg" source="https://www.flickr.com/photos/vxla/5298799635" alt="Entrance sign for El Yunque National Forest" credit="Flickr user vxla" %}
 
@@ -78,7 +78,7 @@ The BLM has a very clear two-tiered treatment of lands: while much of the BLM's 
 
 {% include image.html file="agua-fria-nm-sign.jpg" source="https://commons.wikimedia.org/wiki/File:Agua_Fria_National_Monument_Schild.JPG" alt="Entrance sign for the BLM's Agua Fria National Monument" caption="A typical entrance sign for a named piece of BLM land." credit="Wikimedia Commons user Cathixx" %}
 
-In addition to the NLCS, the BLM does have some other named areas, including the [National Petroleum Reserve in Alaska](https://en.wikipedia.org/wiki/National_Petroleum_Reserve%E2%80%93Alaska), [Areas of Critical Environmental Concern](https://en.wikipedia.org/wiki/Area_of_Critical_Environmental_Concern), and a number of recreational areas. But otherwise, BLM land is generally anonymous. Most the BLM's public-facing resources, like websites and social media accounts, come from the state offices and not specific land units.
+In addition to the NLCS, the BLM does have some other named areas, including the [National Petroleum Reserve in Alaska](https://en.wikipedia.org/wiki/National_Petroleum_Reserve%E2%80%93Alaska), [Areas of Critical Environmental Concern](https://en.wikipedia.org/wiki/Area_of_Critical_Environmental_Concern), and a number of recreational areas. But otherwise, BLM land is generally anonymous. Most the BLM's public-facing resources, like websites and social-media accounts, come from the state offices and not specific land units.
 
 Almost all of the BLM's land is in just 11 Western states. It also has [broader authority](https://www.everycrsreport.com/reports/RL34273.html) to acquire and dispose of land than the other agencies.
 
@@ -86,11 +86,13 @@ Almost all of the BLM's land is in just 11 Western states. It also has [broader 
 
 There are some land designations that can apply to multiple agencies.
 
-*National Monuments* can be managed by any of the agencies — and can even span multiple agencies. I [wrote a detailed post](http://www.gregjd.com/blog/2017/07/10/national-monuments-explained/) about them. NPS monuments tend to have more restrictions than those managed by the BLM and USFS.
+*National Monuments* can be managed by any of the agencies — and [can even span](https://www.fs.usda.gov/Internet/FSE_DOCUMENTS/fseprd540992.pdf) multiple agencies. I [wrote a detailed post](http://www.gregjd.com/blog/2017/07/10/national-monuments-explained/) about them. NPS monuments tend to have more restrictions than those managed by the BLM and USFS.
 
 *National Recreation Areas* can be managed by the NPS or USFS (or in one case, BLM).
 
 *Wilderness Areas* are part of the [National Wilderness Preservation System](https://en.wikipedia.org/wiki/National_Wilderness_Preservation_System) and are generally undeveloped lands where the only activities allowed are non-motorized recreation and scientific research, and where human influence on the landscape is supposed to be unnoticeable. They require Congressional approval. Wilderness areas are overlay designations, and can span lands managed by multiple agencies. (The BLM has the authority to create [Wilderness Study Areas](https://en.wikipedia.org/wiki/Wilderness_study_area), which carry similar protections to Wilderness and are intended to be temporary while officials study the area to determine whether or not to recommend it for permanent Wilderness protection.)
+
+{% include image.html file="domeland-wilderness-map.jpg" source="http://sierrawild.gov/wilderness/domeland" alt="Map of the Domeland Wilderness, with respect to Sequoia National Forest and BLM land" caption="Notice how the Domeland Wilderness area (in dark green) is partially in Sequoia National Forest and partially on BLM land." credit="SierraWild.gov" %}
 
 Finally, the [National Wild and Scenic Rivers System](https://en.wikipedia.org/wiki/National_Wild_and_Scenic_Rivers_System) and the [National Trails System](https://en.wikipedia.org/wiki/National_Trails_System) both feature management by multiple agencies.
 
@@ -102,5 +104,5 @@ Finally, the [National Wild and Scenic Rivers System](https://en.wikipedia.org/w
 - [Smokey Bear](https://en.wikipedia.org/wiki/Smokey_Bear) is a product of the USFS, the Ad Council, and the National Association of State Foresters. It has nothing to do with the NPS.
 - NPS units often have restrictions on dogs. USFS and BLM lands are a better bet for dog allowance.
 - Many portions of USFS and BLM land allow you to camp for free almost anywhere you want. There are also no entrance fees, only day-use fees at some recreation sites.
-- Land management is not the *only* activity of the land management agencies. They all have other roles too.
+- Land management is not the *only* activity of the land-management agencies. They all have other roles too.
 - Unless otherwise cited, most numbers in this post come from [this Congressional Research Service report](https://www.everycrsreport.com/reports/R42346.html).
