@@ -23,6 +23,7 @@ This blog will cover a variety of topics that come to mind, including tech, tran
 {% endfor %}
 </ul>
 
+<br>
 <p class="rss-subscribe">Subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a>
 </p>
 
