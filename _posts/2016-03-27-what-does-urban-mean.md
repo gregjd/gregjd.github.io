@@ -1,5 +1,6 @@
 ---
 title: What does 'urban' mean?
+description: And is the alternative to it 'suburban' or 'rural'?
 layout: post
 ---
 
