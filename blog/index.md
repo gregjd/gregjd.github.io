@@ -15,9 +15,10 @@ This blog will cover a variety of topics that come to mind, including tech, tran
 {% for post in site.posts %}
     <li>
         <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-        <h2>
+        <h2 class="no-anchor">
             <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         </h2>
+        <p>{{ post.description }}</p>
     </li>
 {% endfor %}
 </ul>
@@ -61,7 +62,7 @@ Government and technology:
 Education and math:
 
 * My observations about math education and number sense, after having been a math tutor for a year and a half.
-* Some of the techniques I show my students about doing arithmetic in ways that rely on dealing with the actual quantities, especially ones that are helpful for doing mental math, in contrast to some traditional pencil-and-paper methods like long division. 
+* Some of the techniques I show my students about doing arithmetic in ways that rely on dealing with the actual quantities, especially ones that are helpful for doing mental math, in contrast to some traditional pencil-and-paper methods like long division.
 * How I came to love 0-indexing of numbering, and why I think being concious of the usage of 0-indexing vs. 1-indexing in everyday life (and incorporating more 0-indexing) can be very helpful. Also included in this discussion are closed, half-closed, and open intervals, and discrete vs. continuous data.
 * Philosophy of science, and how I see the different fields of science relating to each other in different ways. (A modified version of [this diagram](https://commons.wikimedia.org/wiki/File:Partial_ordering_of_the_sciences_Balaban_Klein_Scientometrics2006_615-637.svg).)
 * What topics I think are over- and under-emphasized in high school curricula.
