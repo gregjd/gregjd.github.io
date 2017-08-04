@@ -105,7 +105,7 @@ a {
     color: $brand-color;
     text-decoration: none;
 
-    &:visited {
+    &:visited:not(.share-button) {
         color: darken($brand-color, 15%);
     }
 
@@ -259,3 +259,7 @@ pre {
 
 .share-button.twitter { background-color: #1B95E0; }
 .share-button.twitter:hover { background-color: #269ce5; }
+
+div.social-buttons {
+  margin-bottom: 20px;
+}
