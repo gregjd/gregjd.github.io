@@ -28,7 +28,7 @@ markdown: kramdown
 permalink: "/blog/:year/:month/:day/:title/"
 
 # Disqus post comments
-disqus_shortname: username
+disqus_shortname: gregjd
 
 # Gems
 gems:
