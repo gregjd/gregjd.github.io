@@ -34,7 +34,7 @@ About two-thirds of the NPS's land lies in Alaska, although those parks get few 
 
 (Note that some National Monuments and National Recreation Areas are managed by other agencies; the descriptions above only apply to NPS-managed ones.)
 
-## U.S. Fish and Wildlife Service (USFWS/FWS)
+## U.S. Fish and Wildlife Service (FWS)
 
 The FWS manages the *National Wildlife Refuge System*. Most units are designated as *National Wildlife Refuges*, but some go by other names, like the Patuxent Research Refuge and the National Elk Refuge.
 
@@ -42,7 +42,7 @@ National Wildlife Refuges are [intended](https://www.fws.gov/refuges/policiesand
 
 Most FWS land (86%) is located in Alaska. In the rest of the U.S., most refuges are located in wetlands.
 
-## U.S. Forest Service (USFS/FS)
+## U.S. Forest Service (USFS)
 
 The USFS manages the *National Forest System*, which includes *National Forests* and *National Grasslands*. The USFS also has land designated as *National Monuments* and *National Recreation Areas*, but these are overlay designations on National Forests/Grasslands, not independent units (as is the case for the NPS). Each National Forest/Grassland is divided into *ranger districts*.
 
