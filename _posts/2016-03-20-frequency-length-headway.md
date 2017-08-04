@@ -1,5 +1,6 @@
 ---
 title: Trip frequency, trip length, and transit service headways
+description: Why short-distance transit must be frequent while longer-distance transit doesn't need to be.
 layout: post
 ---
 
