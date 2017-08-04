@@ -15,7 +15,6 @@ defaults:
   values:
     layout: post
     comments: true
-    author: gjordandetamore
 email: greg@gregjd.com
 description: 'Greg is a developer, data/GIS analyst, and designer  interested in civic
   technology and geography.
