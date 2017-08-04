@@ -32,5 +32,8 @@
   <meta name="msapplication-square310x310logo" content="/images/favicon/mstile-310x310.png" />
 
   {% seo %}
+  {% if page.twitter_title %}
+  <meta name="twitter:title" content="{{ page.twitter_title }}" />
+  {% endif %}
 
 </head>
