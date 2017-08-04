@@ -1,5 +1,6 @@
 ---
 title: The problem with GTFS transit mode categories
+description: They focus on form instead of function.
 layout: post
 ---
 
