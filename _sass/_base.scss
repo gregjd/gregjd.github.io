@@ -62,7 +62,7 @@ figcaption {
 
 /* Make figures wide if they're big enough and there's space */
 @media(min-width: 980px) {
-    figure {
+    figure.wide {
         margin-left: -50px;
         margin-right: -50px;
     }

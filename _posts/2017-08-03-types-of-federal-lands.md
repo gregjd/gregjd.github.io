@@ -52,7 +52,7 @@ Each National Forest/Grassland has an [authorized boundary](https://www.fs.usda.
 
 Because most National Forests/Grasslands were established when the West was sparsely settled, only 10% of the land in Western forests is inholdings. By contrast, forests in the East were established after widespread settlement, resulting in 46% of their land being inholdings.
 
-{% include image.html file="daniel-boone-nf-inholdings.png" source="https://www.fs.usda.gov/detailfull/dbnf/about-forest/?cid=stelprdb5277049&width=full" alt="Map of Daniel Boone National Forest's federal land vs. private inholdings" caption="Within Daniel Boone National Forest's authorized boundary, only the land in green is federally owned. The white areas are inholdings." credit="USFS" %}
+{% include image.html file="daniel-boone-nf-inholdings.png" source="https://www.fs.usda.gov/detailfull/dbnf/about-forest/?cid=stelprdb5277049&width=full" alt="Map of Daniel Boone National Forest's federal land vs. private inholdings" caption="Within Daniel Boone National Forest's authorized boundary, only the land in green is federally owned. The white areas are inholdings." credit="USFS" width="narrow" %}
 
 The USFS is the only one of the four land-management agencies that owns a significant amount of land in the eastern U.S.
 
@@ -92,7 +92,7 @@ There are some land designations that can apply to multiple agencies.
 
 *Wilderness Areas* are part of the [National Wilderness Preservation System](https://en.wikipedia.org/wiki/National_Wilderness_Preservation_System) and are generally undeveloped lands where the only activities allowed are non-motorized recreation and scientific research, and where human influence on the landscape is supposed to be unnoticeable. They require Congressional approval. Wilderness areas are overlay designations, and can span lands managed by multiple agencies. (The BLM has the authority to create [Wilderness Study Areas](https://en.wikipedia.org/wiki/Wilderness_study_area), which carry similar protections to Wilderness and are intended to be temporary while officials study the area to determine whether or not to recommend it for permanent Wilderness protection.)
 
-{% include image.html file="domeland-wilderness-map.jpg" source="http://sierrawild.gov/wilderness/domeland" alt="Map of the Domeland Wilderness, with respect to Sequoia National Forest and BLM land" caption="Notice how the Domeland Wilderness area (in dark green) is partially in Sequoia National Forest and partially on BLM land." credit="SierraWild.gov" %}
+{% include image.html file="domeland-wilderness-map.jpg" source="http://sierrawild.gov/wilderness/domeland" alt="Map of the Domeland Wilderness, with respect to Sequoia National Forest and BLM land" caption="Notice how the Domeland Wilderness area (in dark green) is partially in Sequoia National Forest and partially on BLM land." credit="SierraWild.gov" width="narrow" %}
 
 Finally, the [National Wild and Scenic Rivers System](https://en.wikipedia.org/wiki/National_Wild_and_Scenic_Rivers_System) and the [National Trails System](https://en.wikipedia.org/wiki/National_Trails_System) both feature management by multiple agencies.
 
