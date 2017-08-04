@@ -66,7 +66,7 @@ The basic notion that all BLM lands even constitute one "system" is quite new; t
 
 BLM land is often left off of maps. Here's how Google Maps depicts Northwest Wyoming:
 
-{% include image.html file="nw-wyoming-google-maps.png" source="https://www.google.com/maps/@44.2049239,-108.9346264,9z" alt="Google Maps's depiction of Northwest Wyoming, with National Parks and Forests in green but BLM land not shown" credit="Google Maps" %}
+{% include image.html file="nw-wyoming-google-maps.png" source="https://www.google.com/maps/@44.2049239,-108.9346264,9z" alt="Google Maps's depiction of Northwest Wyoming, with National Parks and Forests in green but BLM land not shown" caption="National Parks and Forests are shown in green." credit="Google Maps" %}
 
 See that "blank" area in the center-right? Much of it [is actually BLM land](http://www.uwyo.edu/haub/_files/_images/ruckelshaus/open-spaces/map-library/11wyo-land-ownership-2011.png), including a number of off-the-beaten-path sights.
 
