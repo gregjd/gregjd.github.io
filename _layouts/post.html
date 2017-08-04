@@ -15,6 +15,10 @@ layout: default
   </article>
 
   <br>
+  <a class="share-button facebook" href="https://www.facebook.com/sharer/sharer.php?u={{ page.url | prepend: site.url | cgi_escape }}" target="_blank">{% include icon-facebook.html %} Share</a>
+  <a class="share-button twitter" href="https://twitter.com/intent/tweet?url={{ page.url | prepend: site.url | cgi_escape }}&text={{ page.title | append: ' — by @GJordanDetamore' | cgi_escape }}&via=GJordanDetamore" target="_blank">{% include icon-twitter.html %} Tweet</a>
+
+  <br>
   {% if site.disqus_shortname %}
     {% include disqus_comments.html %}
   {% endif %}

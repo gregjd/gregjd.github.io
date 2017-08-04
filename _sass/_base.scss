@@ -215,3 +215,47 @@ pre {
         }
     }
 }
+
+
+
+/**
+ * Share buttons
+ */
+.share-button {
+  position: relative;
+  display: inline-flex;
+  align-items: center;
+  padding: 3px 10px 2px 8px;
+  margin: 10px;
+  color: #fff;
+  background-color: #333;
+  border-radius: 2px;
+  box-shadow: 0 1px 1px rgba(0, 0, 0, 0.35);
+  text-decoration: none;
+  font-family: $base-font-family;
+  font-weight: 600;
+  font-size: 15px;
+}
+
+.share-button:hover {
+  color: #fff;
+  background-color: #4f4f4f;
+}
+
+.share-button:active {
+  top: 1px;
+  box-shadow: 0 0 1px rgba(0, 0, 0, 0.25);
+}
+
+.share-button svg {
+  fill: #ffffff;
+  width: 19px;
+  height: 19px;
+  margin-right: 5px;
+}
+
+.share-button.facebook { background-color: #4A66B7; }
+.share-button.facebook:hover { background-color: #556fbb; }
+
+.share-button.twitter { background-color: #1B95E0; }
+.share-button.twitter:hover { background-color: #269ce5; }
