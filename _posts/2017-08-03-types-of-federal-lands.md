@@ -1,8 +1,8 @@
---
+---
 title: National parks, forests, wildlife refuges, and other lands: What's the difference?
 description: Four federal agencies manage lands in different ways for different uses.
 image: /images/el-yunque-nf-entrance-sign.jpg
---
+---
 
 {% include image.html file="chincoteague-assateague-sign.jpg" source="https://commons.wikimedia.org/wiki/File:Chincoteague_National_Wildlife_Refuge_Sign_1.jpg" alt="Entrance sign to Chincoteague National Wildlife Refuge and Assateague Island National Seashore" caption="What do all these land designations mean?" credit="Leonard J. DeFrancisci" %}
 
