@@ -50,8 +50,6 @@ Geography:
 
 Public lands and natural beauty:
 
-* An explanation of the four federal land-management agencies.
-* An explanation of what exactly National Monuments are.
 * Great public lands that are _not_ National Parks (other NPS, BLM, USFS, FWS, state — probably each a separate post).
 * Why the West is more scenic than the East.
 
