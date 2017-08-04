@@ -1,5 +1,5 @@
 ---
-title: National Monuments, explained
+title: National monuments, explained
 excerpt: What are they, what protections do they provide, and where does the land come from?
 description: What are they, what protections do they provide, and where does the land come from?
 image: /images/John_Day_Fossil_Beds.jpg
