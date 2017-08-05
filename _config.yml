@@ -16,10 +16,7 @@ defaults:
     layout: post
     comments: true
 email: greg@gregjd.com
-description: 'Greg is a developer, data/GIS analyst, and designer  interested in civic
-  technology and geography.
-
-'
+description: 'I am a civic technologist interested in cities, government, transportation, and parks.'
 baseurl: ''
 url: http://www.gregjd.com
 twitter_username: gjordandetamore
