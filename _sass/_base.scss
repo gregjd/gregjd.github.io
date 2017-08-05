@@ -105,7 +105,7 @@ a {
     color: $brand-color;
     text-decoration: none;
 
-    &:visited:not(.share-button) {
+    &:visited:not(.share-button):not(.site-title):not(.page-link) {
         color: darken($brand-color, 15%);
     }
 
