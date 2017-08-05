@@ -13,7 +13,7 @@
         </svg>
       </a>
 
-      {% assign pages = site.pages | sort:"order"  %}
+      {% assign pages = site.pages | sort: "order" %}
       <div class="trigger">
         {% for page in pages %}
           {% if page.title %}
