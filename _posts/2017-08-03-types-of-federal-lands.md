@@ -27,7 +27,7 @@ The NPS manages the *National Park System*. Despite the name, this system is mor
 
 *National Parks* and *National Monuments* are, for all intents and purposes, the same. They are the most restrictive; they usually ban resource extraction, off-road vehicle use, and sport hunting. Monuments tend to be smaller than Parks, but there's a lot of variance. See my [previous post](http://www.gregjd.com/blog/2017/07/10/national-monuments-explained/) for more detail on National Monuments.
 
-Most *National Recreation Areas* either surround reservoirs (and focus on water-based recreation) or are located in urban areas. NRAs, *National Preserves*, *National Seashores*, *National Lakeshores*, and certain other units are similar to National Parks and National Monuments, but in some cases they have looser regulations. The NPS also manages many historical and cultural sites, but those are usually much smaller areas.
+Most *National Recreation Areas* either surround reservoirs (and focus on water-based recreation) or are located in urban areas. NRAs, *National Preserves*, *National Seashores*, *National Lakeshores*, *National Rivers*, and certain other units are similar to National Parks and National Monuments, but in some cases they have looser regulations. The NPS also manages many historical and cultural sites, but those are usually much smaller areas.
 
 {% include image.html file="cuyahoga-valley-np-sign.jpg" source="https://commons.wikimedia.org/wiki/File:Cuyahoga_Valley_welcome_sign.jpg" alt="Entrance sign at Cuyahoga Valley National Park" caption="Cuyahoga Valley National Park used to be a National Recreation Area." credit="David Fulmer" width="narrow" %}
 
@@ -101,11 +101,13 @@ Finally, the [National Wild and Scenic Rivers System](https://en.wikipedia.org/w
 
 ## Other random things to know
 
-- The BLM also manages underground mineral rights for *all* federal lands, totaling about 700 million acres.
 - There are also a variety of marine areas under federal control/protection. These are managed by agencies including the FWS, National Oceanic and Atmospheric Administration, and Bureau of Ocean Energy Management.
 - [Annual passes](https://www.nps.gov/planyourvisit/passes.htm) cover entrance and day-use fees not only at NPS units but also at those managed by the other agencies.
 - [Smokey Bear](https://en.wikipedia.org/wiki/Smokey_Bear) is a product of the USFS, the Ad Council, and the National Association of State Foresters. It has nothing to do with the NPS.
+- NPS units tend to have more visitor information and maps available than lands managed by the other agencies. And the maps are much better, thanks to the people at the [Harpers Ferry Center](https://www.nps.gov/hfc/).
 - NPS units often have restrictions on dogs. USFS and BLM lands are a better bet for dog allowance.
 - Many portions of USFS and BLM land allow you to camp for free almost anywhere you want. There are also no entrance fees, only day-use fees at some recreation sites.
+- Just because the USFS and BLM have a multiple-use mission, that doesn't literally mean that each piece of land does; different areas have different emphasized uses and sometimes different regulations.
+- The BLM also manages underground mineral rights for *all* federal lands, totaling about 700 million acres.
 - Land management is not the *only* activity of the land-management agencies. They all have other roles too.
 - Unless otherwise cited, most numbers in this post come from [this Congressional Research Service report](https://www.everycrsreport.com/reports/R42346.html).
