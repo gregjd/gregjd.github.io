@@ -3,6 +3,7 @@ title: Work
 permalink: work/
 layout: page
 order: 2
+header_exclude: true
 ---
 
 Below is a selection of my projects and work. I haven't updated this since mid-2016, but will sometime soon (August 2017)!
