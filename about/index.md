@@ -7,38 +7,47 @@ order: 1
 
 ![Profile picture](/images/Profile_Pic_Cropped.png)
 
-
 Hi!
 
-I'm Greg, a developer, data/GIS analyst, and designer living in DC.
+{{ site.description }} I currently work as the Open Cities Technologist at the Sunlight Foundation in DC.
+
+The main types of things I like doing — especially when applied to the list of topics below — include:
+
+- **Analyzing data** to gain useful and interesting insights
+- **Building software and web tools** that help people get things done
+- **Communicating information** through maps, diagrams, charts, and words
+- **Designing user experiences** that are intuitive and elegant
+
+I've done these things both through work and in my personal time, and am always looking for new challenges.
+
+The main topics I'm interested in are:
+
+- **Government that works for people** in a way that is effective, efficient, responsive, and transparent
+- **Transportation networks** that make it easy for people to get around without a car
+- **Human-centered cities** that are livable, happy, and prosperous
+- **Parks and public lands** that let people experience the great outdoors
+
+That's not an exhaustive list. Other topics of interest include:
+
+- Organizational structure and management
+- Curriculum design
+- Obscure geographic trivia
+- National and homeland security
+- Energy and natural resources
+- Typography
+
+## Work
 
 I work at the [Sunlight Foundation](http://sunlightfoundation.com/) as a Local Data Technologist — the tech lead on the local policy team. My work includes a mix of data processing, data analysis, data visualization, web/software development, and communications. Our team is helping local governments craft open-data policies as part of the [What Works Cities](https://whatworkscities.bloomberg.org/about/) project.
 
-I previously worked at [DataSpark](http://datasparkri.org/) in Providence and was a dedicated member of [Code Island](http://code-island.org/), Code for America's Rhode Island brigade. I graduated Brown University in May 2014 with a double major in Urban Studies and Geological Sciences.
+I previously worked at [DataSpark](http://datasparkri.org/) in Providence and was a dedicated member of [Code Island](http://code-island.org/), Code for America's Rhode Island brigade.
 
-My intellectual interests broadly fall in three areas: geography, design, and computation.
+I went to college at Brown University, double-majoring in Urban Studies and Geological Sciences.
 
-* **Geography:** For a long time, people asked what the connection was between my majors in Urban Studies and Geological Sciences, and I usually replied that I didn't really see one and was literally just interested in both. But I eventually [came to realize](http://www.brown.edu/academics/urban-studies/sites/brown.edu.academics.urban-studies/files/uploads/2014%20Urban%20Studies%20Newsletter_0.pdf#page=2) that in fact there was a very deep connection, which was that they both study the world around us, with one focusing on the built and social environments and the other on the natural environment. Really, I was interested in the full breadth of geography, which has traditionally been divided into human geography and physical geography --- more or less covering my interests urban studies and geoscience. I'm also very interested in cartography and [GIS](https://en.wikipedia.org/wiki/Geographic_information_system), which are critical in studying all branches of geography. I have loved maps since before elementary school, and took three college GIS courses while in high school. 
+## Résumé and projects
 
-* **Design:** I think about design in a human-centered and minimal way that balances elegance with practicality. I enjoy abstraction and "design thinking," focusing on principles that are widely applicable. To me, there truly are relationships between disparate-seeming fields like transit system design, curriculum design, and typography. Other interests include graphic design, data visualization, algorithm design, writing style, and urban design.
+See [LinkedIn](https://www.linkedin.com/in/greg-jordan-detamore-a20a4236/) and my [GitHub](https://github.com/gregjd) profile.
 
-* **Computation:** One of the biggest surprises of college was falling in love with computer science and computation. It started with a programming class aimed at social sciences and humanities students, and blossomed from there. Moving beyond basic programming, I found fascination in algorithms and topics like graph theory. Over the past few months, I have gained a deep interest in functional programming, and am currently interested in learning Clojure and Haskell. Functional programming has changed my way of thinking and furthered my interest in theoretical CS as well as pure math. My experience as a math tutor has also really helped me think about how to explain computational concepts to others and apply CS concepts to basic math. Beyond CS and math, I enjoy data analysis, and always ready to make pivot tables and multiply matricies.
+## Contact
 
-
-In terms of practical applications, I am most interested in civic technology, transportation, planning, open data, and government innovation.
-
-
-
-### Résumé and Projects
-
-See [LinkedIn](https://www.linkedin.com/in/greg-jordan-detamore-a20a4236/) for my résumé.
-
-See my [work page](/work/) for a selected list of projects I've done.
-
-### Connect
-
-Feel free to contact me by [email](mailto:greg@gregjd.com), and check out my [GitHub](https://github.com/gregjd) profile.
-
-
-
-[LinkedIn profile]: https://www.linkedin.com/pub/greg-jordan-detamore/36/a42/a20
+Feel free to contact me by [email](mailto:greg@gregjd.com) or on [Twitter](https://twitter.com/gjordandetamore).
