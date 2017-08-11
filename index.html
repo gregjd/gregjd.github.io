@@ -8,7 +8,8 @@ layout: default
 
   <h1 class="page-heading">About</h1>
 
-  Hello! {{ site.description }} I currently work as the Open Cities Technologist at the Sunlight Foundation in DC. <a href="/about/">Learn more.</a>
+  <p>Hello! {{ site.description }} I currently work as the Open Cities Technologist at the Sunlight Foundation in DC.</p>
+  <p><a href="/about/">Learn more.</a></p>
 
   <!-- <h1 class="page-heading">Work</h1>
 
@@ -16,19 +17,7 @@ layout: default
 
   <h1 class="page-heading">Blog</h1>
 
-  <ul class="post-list">
-    {% assign posts_minus_one = site.posts | size | minus: 1 %}
-    {% for post in site.posts limit:posts_minus_one %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
-        <h2 class="no-anchor">
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-        <p>{{ post.description }}</p>
-      </li>
-    {% endfor %}
-  </ul>
+  {% include post-list.html limit=true %}
 
   <a href="/blog/">See all posts.</a>
 

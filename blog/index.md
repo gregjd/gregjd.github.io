@@ -5,23 +5,13 @@ layout: page
 order: 3
 ---
 
-This blog will cover a variety of topics that come to mind, including tech, transportation, cities, government, design, geography, and education.
+This blog will cover a variety of topics that come to mind, including transportation, cities, parks and public lands, government, design, tech, geography, and education.
 
 <br>
 
 ## All posts
 
-<ul class="post-list">
-{% for post in site.posts %}
-    <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-        <h2 class="no-anchor">
-            <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-        <p>{{ post.description }}</p>
-    </li>
-{% endfor %}
-</ul>
+{% include post-list.html %}
 
 <br>
 <p class="rss-subscribe">Subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a>

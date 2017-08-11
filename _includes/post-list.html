@@ -1,0 +1,21 @@
+<ul class="post-list">
+  {% if include.limit %}
+    {% assign limit_size = site.posts | size | minus: 1 %}
+  {% else %}
+    {% assign limit_size = site.posts | size %}
+  {% endif %}
+  {% for post in site.posts limit:limit_size %}
+    <li>
+      <div class="post-list-col post-list-col-1">
+        <img src="{{ post.image }}">
+      </div>
+      <div class="post-list-col post-list-col-2">
+        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+        <h2 class="no-anchor no-top-pad">
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        </h2>
+        <p>{{ post.description }}</p>
+      </div>
+    </li>
+  {% endfor %}
+</ul>
