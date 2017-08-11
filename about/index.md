@@ -36,18 +36,10 @@ That's not an exhaustive list. Other topics of interest include:
 - Energy and natural resources
 - Typography
 
-## Work
-
-I work at the [Sunlight Foundation](http://sunlightfoundation.com/) as a Local Data Technologist — the tech lead on the local policy team. My work includes a mix of data processing, data analysis, data visualization, web/software development, and communications. Our team is helping local governments craft open-data policies as part of the [What Works Cities](https://whatworkscities.bloomberg.org/about/) project.
-
-I previously worked at [DataSpark](http://datasparkri.org/) in Providence and was a dedicated member of [Code Island](http://code-island.org/), Code for America's Rhode Island brigade.
-
-I went to college at Brown University, double-majoring in Urban Studies and Geological Sciences.
-
-## Résumé and projects
+### Résumé and projects
 
 See [LinkedIn](https://www.linkedin.com/in/greg-jordan-detamore-a20a4236/) and my [GitHub](https://github.com/gregjd) profile.
 
-## Contact
+### Contact
 
 Feel free to contact me by [email](mailto:greg@gregjd.com) or on [Twitter](https://twitter.com/gjordandetamore).
