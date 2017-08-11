@@ -2,6 +2,7 @@
 title: What does 'urban' mean?
 description: And is the alternative to it 'suburban' or 'rural'?
 layout: post
+image: /images/LasVegas_Strip.jpg
 ---
 
 Discussions about urban geography and planning often include the term _urban_. But what do we mean when we say "urban," and what is the alternative or opposite? And how can you examine a place and determine whether or not it's urban?

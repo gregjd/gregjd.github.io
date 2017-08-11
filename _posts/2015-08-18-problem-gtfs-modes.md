@@ -2,6 +2,7 @@
 title: The problem with GTFS transit mode categories
 description: They focus on form instead of function.
 layout: post
+image: /images/Seattle_Stops_Map_Rail.png
 ---
 
 One of the largest problems we have with the way we talk about transit is that we focus our language on technology instead of service. This is true both in the United States and in many other countries.

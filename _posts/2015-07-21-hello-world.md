@@ -1,6 +1,7 @@
 ---
 title: Hello, world!
 layout: post
+image: /images/Profile_Pic_Square.png
 ---
 
 Hello, world!

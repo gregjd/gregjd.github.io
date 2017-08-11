@@ -2,6 +2,7 @@
 title: Trip frequency, trip length, and transit service headways
 description: Why short-distance transit must be frequent while longer-distance transit doesn't need to be.
 layout: post
+image: /images/Lincoln_Trip_Distribution.svg
 ---
 
 Frequency is a crucially important factor in the usefulness of transit. Generally speaking, "more is better" when it comes to how often transit runs. (As transit planner Jarrett Walker says, [frequency](http://humantransit.org/2010/08/basics-the-case-for-frequency-mapping.html) is [freedom](http://reconnectingamerica.org/news-center/half-mile-circles/2011/jarrett-walker-frequency-is-freedom/).) But running more service also costs more money. Yet running more service can also attract more ridership, which may help pay for the cost of providing that service. It's a complex relationship.
@@ -58,7 +59,7 @@ What does this all mean for transit? A few things that were touched on above:
 
 - When you make transit more frequent, you make it more competitive specifically for shorter-length trips, though it's a benefit for trips of all lengths.
 
-- It's okay for longer-distance transit service to run less frequently. 
+- It's okay for longer-distance transit service to run less frequently.
 
 I want to examine the implications for two issues in detail: airport access and the distribution of commuter rail ridership.
 
