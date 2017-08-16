@@ -7,6 +7,8 @@ order: 3
 
 This blog will cover a variety of topics that come to mind, including transportation, cities, parks and public lands, government, design, tech, geography, and education.
 
+Also, [check out](https://sunlightfoundation.com/author/gjordandetamore/) my blog posts written for work at the Sunlight Foundation.
+
 <br>
 
 ## All posts
