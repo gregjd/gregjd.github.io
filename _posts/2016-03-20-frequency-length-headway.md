@@ -1,6 +1,6 @@
 ---
-title: Trip frequency, trip length, and transit service headways
-description: Why short-distance transit must be frequent while longer-distance transit doesn't need to be.
+title: How frequently does transit need to run? It depends on distance
+description: Short-distance transit must be frequent while longer-distance transit doesn't need to be.
 layout: post
 image: /images/Lincoln_Trip_Distribution.svg
 ---
