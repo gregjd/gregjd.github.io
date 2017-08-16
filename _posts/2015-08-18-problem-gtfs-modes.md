@@ -40,11 +40,13 @@ On that last point, Google Maps establishes a visual hierarchy of transit by sho
 
 Check out the following screenshots from Google Maps:
 
-![Bogota bus stops](/images/Bogota_Bus_Stops_Map1.png)
+<!-- ![Bogota bus stops](/images/Bogota_Bus_Stops_Map1.png) -->
+{% include image.html file="Bogota_Bus_Stops_Map1.png" source="https://www.google.com/maps" alt="Screenshot of Google Maps for Bogotá, Colombia, including small icons for bus stops (but no differentiation between the types of service)" credit="Google Maps" %}
 
-This is Bogotá, Columbia. Notice how there's a sea of bus stops, all with the same symbol and no differentiation --- despite the clearly [different categories of service](http://www.sitp.gov.co/publicaciones/servicios_del_sitp_pub) that exist. In particular, TransMilenio bus rapid transit is not shown as being a higher category of service than other buses.
+This is Bogotá, Colombia. Notice how there's a sea of bus stops, all with the same symbol and no differentiation --- despite the clearly [different categories of service](http://www.sitp.gov.co/publicaciones/servicios_del_sitp_pub) that exist. In particular, TransMilenio bus rapid transit is not shown as being a higher category of service than other buses.
 
-![Seattle rail stops map](/images/Seattle_Stops_Map_Rail.png)
+<!-- ![Seattle rail stops map](/images/Seattle_Stops_Map_Rail.png) -->
+{% include image.html file="Seattle_Stops_Map_Rail.png" source="https://www.google.com/maps" alt="Screenshot of Google Maps for Seattle, including small icons for rail stops (but no differentiation between streetcar and light rail, despite their vastly different service); also, streetcar stops are shown while RapidRide bus stops are not" credit="Google Maps" %}
 
 Here's downtown Seattle. There are two big problems here. The first is that two quite different services are both classified as "Tram, Streetcar, Light rail" and thus displayed the same way: the [Central Link light rail](https://en.wikipedia.org/wiki/Central_Link) (at the bottom-center of the image) and the [South Lake Union Streetcar](https://en.wikipedia.org/wiki/South_Lake_Union_Streetcar) (at the top-center). The Central Link (weekday ridership 37,350) is Seattle's premier transit service, with a dedicated right-of-way, grade separation for much of the route, and stops that average over a mile apart. On the other hand, the SLU Streetcar (weekday ridership 2,600 and only 1.3 miles long) runs in mixed traffic with stops a little over a fifth of a mile apart. These are two entirely different types of services and should not be visualized the same way. The second problem with the map is the absence of high-quality bus routes, notably Seattle's RapidRide network. [RapidRide lines](https://en.wikipedia.org/wiki/RapidRide) "service fewer stops (40% less than the routes they replaced), make extensive use of transit signal priority to preempt traffic lights and on some lines, use semi-exclusive lanes to bypass traffic." RapidRide (daily ridership 57,000) runs with headways of 10 min or less during peak hours and 15 min or less at other times. But instead of having any hierarchy of bus services, they're all presented the same on this map, and you have to zoom in two levels from the view above in order to see any/all of them.
 
