@@ -76,6 +76,8 @@ The blogs I follow the most:
 * [Human Transit](http://www.humantransit.org/) (Jarrett Walker)
 * [Pedestrian Observations](http://pedestrianobservations.wordpress.com/) (Alon Levy)
 * [Greater Greater Washington](http://greatergreaterwashington.org/)
+* [National Parks Traveler](https://www.nationalparkstraveler.org/)
+* [PlanPhilly](http://planphilly.com/)
 
 And some others:
 
