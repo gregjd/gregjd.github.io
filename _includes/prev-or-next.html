@@ -1,0 +1,9 @@
+{% if include.type == "prev" %}
+  {% assign name = "Previous" %}
+{% elsif include.type == "next" %}
+  {% assign name = "Next" %}
+{% endif %}
+<div class="{{ include.type }}">
+  <p class="toptext">{{ name }} Post</p>
+  <p><a class="pn-link" href="{{ include.link_page.url }}">{{ include.link_page.title }}</a></p>
+</div>

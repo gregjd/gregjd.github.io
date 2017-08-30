@@ -21,6 +21,23 @@ layout: default
 
   {% include social-buttons.html url=page.url title=page.title %}
 
+  <div class="prev-next-nav">
+    {% if page.previous.url %}
+      {% include prev-or-next.html type="prev" link_page=page.previous %}
+    <!-- <div class="prev">
+      <p class="toptext">Previous Post</p>
+      <p><a class="pn-link" href="{{ page.previous.url }}">{{ page.previous.title }}</a></p>
+    </div> -->
+    {% endif %}
+    {% if page.next.url %}
+      {% include prev-or-next.html type="next" link_page=page.next %}
+    <!-- <div class="next">
+      <p class="toptext">Next Post</p>
+      <p><a class="pn-link" href="{{ page.next.url }}">{{ page.next.title }}</a></p>
+    </div> -->
+    {% endif %}
+  </div>
+
   {% if site.disqus_shortname %}
     {% include disqus_comments.html %}
   {% endif %}

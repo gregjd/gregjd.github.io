@@ -277,3 +277,63 @@ ul.post-list > li {
         width:         calc(100% - (#{$spacing-unit} / 2));
     }
 }
+
+
+
+/**
+ * Previous/next links
+ */
+div.prev-next-nav {
+    border-top: 1px solid $grey-color;
+    border-bottom: 1px solid $grey-color;
+    // margin-left: -$spacing-unit / 2;
+    padding-top: 10px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    @extend %clearfix;
+    // position: relative;
+}
+
+// div.prev-next-nav:after {
+//   content:"";
+//   background: black
+//   position: absolute;
+//   bottom: 0;
+//   left: 0;
+//   height: 50%;
+//   width: 1px;
+// }
+
+// if mobile, want full-width border
+
+// div.prev, div.next {
+//     float: left;
+//     margin-bottom: 0px;
+//     padding-left: $spacing-unit / 2;
+//     width: -webkit-calc(50% - (#{$spacing-unit} / 2));
+//     width:         calc(50% - (#{$spacing-unit} / 2));
+// }
+div.prev, div.next {
+    margin-bottom: 0px;
+    width: 48%;
+}
+div.prev {
+  float: left;
+}
+div.next {
+  float: right;
+}
+
+// @include media-query($on-palm) {
+//     div.prev, div.next {
+//         float: none;
+//         width: -webkit-calc(100% - (#{$spacing-unit} / 2));
+//         width:         calc(100% - (#{$spacing-unit} / 2));
+//     }
+// }
+@include media-query($on-palm) {
+    div.prev, div.next {
+        float: none;
+        width: 100%;
+    }
+}

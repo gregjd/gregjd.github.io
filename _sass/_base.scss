@@ -283,3 +283,16 @@ p.crosspost-notice {
   font-style: italic;
   color: gray;
 }
+
+
+
+/**
+ * Previous/next post navigation
+ */
+p.toptext {
+  font-variant-caps: all-small-caps;
+  margin-bottom: 4px;
+}
+a.pn-link {
+  font-weight: bold;
+}
