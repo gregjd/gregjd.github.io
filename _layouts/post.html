@@ -10,10 +10,7 @@ layout: default
     <p class="post-meta">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
   </header>
 
-  <div class="social-buttons">
-    <a class="share-button facebook" href="https://www.facebook.com/sharer/sharer.php?u={{ page.url | prepend: site.url | cgi_escape }}" target="_blank">{% include icon-facebook.html %} Share</a>
-    <a class="share-button twitter" href="https://twitter.com/intent/tweet?url={{ page.url | prepend: site.url | cgi_escape }}&text={{ page.title | cgi_escape }}&via=GJordanDetamore" target="_blank">{% include icon-twitter.html %} Tweet</a>
-  </div>
+  {% include social-buttons.html url=page.url title=page.title %}
 
   <article class="post-content">
     {% if page.xpost_name and page.xpost_url %}
@@ -22,10 +19,7 @@ layout: default
     {{ content }}
   </article>
 
-  <div class="social-buttons">
-    <a class="share-button facebook" href="https://www.facebook.com/sharer/sharer.php?u={{ page.url | prepend: site.url | cgi_escape }}" target="_blank">{% include icon-facebook.html %} Share</a>
-    <a class="share-button twitter" href="https://twitter.com/intent/tweet?url={{ page.url | prepend: site.url | cgi_escape }}&text={{ page.title | cgi_escape }}&via=GJordanDetamore" target="_blank">{% include icon-twitter.html %} Tweet</a>
-  </div>
+  {% include social-buttons.html url=page.url title=page.title %}
 
   {% if site.disqus_shortname %}
     {% include disqus_comments.html %}
