@@ -9,13 +9,13 @@ order: 1
 
 Hi!
 
-{{ site.description }} I currently work as the Open Cities Technologist at the Sunlight Foundation in DC.
+{{ site.description }} I currently work as the Open Cities Product Lead at the Sunlight Foundation in DC.
 
 The main types of things I like doing — especially when applied to the list of topics below — include:
 
-- **Analyzing data** to gain useful and interesting insights
-- **Building software and web tools** that help people get things done
 - **Communicating information** through maps, diagrams, charts, and words
+- **Developing websites and web tools** that help people get things done
+- **Analyzing data** to gain useful and interesting insights
 - **Designing user experiences** that are intuitive and elegant
 
 I've done these things both through work and in my personal time, and am always looking for new challenges.
@@ -30,8 +30,10 @@ The main topics I'm interested in are:
 That's not an exhaustive list. Other topics of interest include:
 
 - Organizational structure and management
-- Curriculum design
+- Language learning
 - Obscure geographic trivia
+- Landscape architecture
+- Curriculum design
 - National and homeland security
 - Energy and natural resources
 - Typography
