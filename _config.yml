@@ -16,7 +16,7 @@ defaults:
     layout: post
     comments: true
 email: greg@gregjd.com
-description: 'I am a civic technologist interested in cities, government, transportation, and parks.'
+description: 'I am a civic technologist interested in government, cities, transportation, and parks.'
 baseurl: ''
 url: http://www.gregjd.com
 twitter_username: gjordandetamore
