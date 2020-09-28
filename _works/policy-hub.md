@@ -7,11 +7,11 @@ layout: page
 
 ![Home page of the Open Data Policy Hub](/images/works/policy-hub/policy-hub-home-page.png)
 
-# Summary
+## Summary
 
 I created the **[Open Data Policy Hub](https://opendatapolicyhub.sunlightfoundation.com/)** in August 2018, during my time at the Sunlight Foundation. Its purpose was to collect all of our resources related to open-data policies on a single user-friendly website, replacing resources that had been scattered across five different websites.
 
-# Context
+## Context
 
 In 2015, the Sunlight Foundation got a grant to help cities around the United States pass open-data policies. Through the work on this grant, as well as some previous work, the organization created a number of resources related to policy for open data:
 - [Public Policy for Public Data](https://sunlightpolicy.github.io/wwc-site/)
@@ -26,11 +26,11 @@ The problem was, these resources were all on different websites and had differen
 
 One result of this mess was that we often had to send people an entire email explaining how to navigate all of these resources — a sign of a broken user experience!
 
-# Goal
+## Goal
 
 The goal was simple: to create a single site that would provide everything a person needs to know to create an open-data policy.
 
-# Process
+## Process
 
 The Open Data Policy Hub was not the product of a single development process. Instead, it was the culmination of several different iterative efforts over the years.
 
@@ -71,7 +71,7 @@ Due to being a small team with limited capacity, we had somewhat of a need to wr
 For what it’s worth, we felt pretty strongly that the new site was an improvement over the status quo, and that we weren’t really losing anything by the switch. And, while I wasn’t so successful at targeted outreach to intended users, having the website be public creates a much broader audience of users to get feedback from.
 
 
-# Result
+## Result
 
 **[Check out the site »](https://opendatapolicyhub.sunlightfoundation.com/)**
 
@@ -98,13 +98,13 @@ One random thing that I’m happy about is the design and functioning of the Ope
 
 Additionally, numerous local governments around the country have used the Open Data Policy Generator (and its predecessor resource) to help craft their open data policies. While this isn’t exactly a result of the new site — since there was a preexisting resource that did this — it’s still another piece of this that is delivering real value.
 
-# In retrospect
+## In retrospect
 
 I am proud of the site, and it is one of the highlights of my work at the Sunlight Foundation.
 
 My only wish is that I had pushed a little harder on outreach to target users for testing. That said, I do think that our decisions around the release made sense given the reasons mentioned above.
 
-# Acknowledgement
+## Acknowledgement
 
 Much of the content on the site was written by other staff members over the course of years. Additionally, several other staff members contributed design and development to some of the predecessor resources.
 

@@ -5,21 +5,21 @@ image: /images/works/providence-maps/Providence_HistoricDist.png
 layout: page
 ---
 
-# Summary
+## Summary
 
 In 2015, I created a new set of base maps of Providence, RI to provide a staff of data analysts at ProvPlan/DataSpark with a ready template upon which they could create other maps.
 
 ![Map of Providence neighborhoods](/images/works/providence-maps/Providence_Neighborhoods.png)
 
-# Context
+## Context
 
 Data analysts on staff frequently had to create maps of Providence illustrating the location of various places. Frequently, staff would need to recreate from scratch an underlying map of the city to provide context for whatever particular set of features was being highlighted. This meant doing a lot of the same work over and over again for many projects.
 
-# Goal
+## Goal
 
 The goal of this project was to create a set of ready-made maps of the city, upon which staff could add new layers to show specific information. These base maps would have a number of versions giving different sets of city features as context, including neighborhoods, wards, Census tracts, and more. The base maps needed to be created using ArcGIS because that is the program staff used to create maps. Finally, the new base maps were intended to be both visually attractive and provide genuinely relevant information to orient map viewers.
 
-# Process
+## Process
 
 This map went through many iterations. Here are a few of the decisions around layers to include:
 - First, it started with just the **street network**. This is an important starting point because it gives people a frame of reference for being able to locate things.
@@ -31,7 +31,7 @@ Combined, these features help the map “feel” like the city that people know,
 
 During the process, I consulted others on staff to get feedback on the maps.
 
-# Result
+## Result
 
 Here are a few of the base maps:
 
@@ -43,7 +43,7 @@ Here are a few of the base maps:
 
 You can find more of the maps [on this page](https://datasparkri.org/maps/).
 
-# In retrospect
+## In retrospect
 
 Overall, I'm pleased with how the maps turned out. They have served their intended purpose. I think they look good, and others have said the same.
 
