@@ -8,6 +8,10 @@ collections:
   uploads:
     title: Uploads
     output: true
+  works:
+    title: Works
+    output: true
+    permalink: /portfolio/:name
 defaults:
 - scope:
     path: ''
