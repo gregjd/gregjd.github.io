@@ -22,7 +22,7 @@ In 2015, the Sunlight Foundation got a grant to help cities around the United St
 
 The problem was, these resources were all on different websites and had different branding. Furthermore, many of them made references to the others, sending users through circles of these different sites. Finally, there was a fair amount of content that was duplicated across sites, sometimes inconsistently.
 
-<!-- [image of all the different sites] -->
+![Home page of the Open Data Policy Hub](/images/works/policy-hub/policy-hub-predecessors-before.png)
 
 One result of this mess was that we often had to send people an entire email explaining how to navigate all of these resources — a sign of a broken user experience!
 
