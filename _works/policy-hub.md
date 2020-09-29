@@ -79,14 +79,7 @@ For what it’s worth, we felt pretty strongly that the new site was an improvem
 
 The new site now provides much more cohesive design than the disjointed experience of the predecessor resources.
 
-<!-- [img]
-Email explaining everything >> Home page
-Public Policy for Public Data >> Step-by-Step
-Open Data Policy Collection >> Collection
-Open Data Policy Guidelines >> Guidelines
-Open Data Policy Comparison: Best Practices >> Guidelines
-Open Data Policy Wizard >> Generator
-[] -->
+![Before-and-after comparisons of the predecessor resources and their new versions on the Open Data Policy Hub](/images/works/policy-hub/policy-hub-before-after.png)
 
 Since the launch of the site, we have asked many government officials about their experiences with the site and continue to receive positive feedback.
 
