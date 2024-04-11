@@ -3,6 +3,7 @@ title: "Portfolio"
 description: "A selection of my work, with a focus on design-related projects."
 layout: page
 order: 4
+header_exclude: true
 ---
 
 Here is a selection of my work, with a focus on design-related projects.
