@@ -3,6 +3,7 @@ title: About
 permalink: about/
 layout: page
 order: 1
+header_exclude: true
 ---
 
 ![Profile picture](/images/profile-pic.jpeg)
