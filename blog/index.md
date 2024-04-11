@@ -5,8 +5,12 @@ layout: page
 order: 3
 ---
 
+For recent thoughts of mine, please see my new blog, <a href="https://civicinsighter.com/">Civic Insighter</a>.
+
+This page lists old personal blog posts of mine.
 <!-- This blog will cover a variety of topics that come to mind, including transportation, cities, parks and public lands, government, design, tech, geography, and education. -->
 <!-- Also, [check out](https://sunlightfoundation.com/author/gjordandetamore/) my blog posts written for work at the Sunlight Foundation, which include: -->
+<!--
 Most of my recent blogging has been through work at the Sunlight Foundation. Examples include:
 - [Learn how to incorporate user testing into open data projects](https://sunlightfoundation.com/2019/09/03/learn-how-to-incorporate-user-testing-into-open-data-projects/)
 - [Introducing a guide to co-design for local open data programs](https://sunlightfoundation.com/2019/08/22/introducing-a-guide-to-co-design-for-local-open-data-programs/)
@@ -19,7 +23,7 @@ Most of my recent blogging has been through work at the Sunlight Foundation. Exa
 - [Use our new tools to learn about community data needs](https://sunlightfoundation.com/2018/07/09/new-interactive-tools-community-data-needs/)
 
 [See all »](https://sunlightfoundation.com/author/gjordandetamore/)
-
+-->
 <br>
 
 ## Personal blog posts
