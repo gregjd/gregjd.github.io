@@ -85,7 +85,7 @@ Since the launch of the site, we have asked many government officials about thei
 
 Additionally, by making it very clear and easy for users to navigate themselves through the process of creating an open-data policy, we have saved ourselves staff time.
 
-One random thing that I’m happy about is the design and functioning of the Open Data Policy Generator. On the front end, the user sees a form that looks just like the rest of the site. But when a user submits the form on this site, their submission data is then passed to Google Forms rather than being digested by this site. This helped help things simple for us, allowing this site to be a static website while also having the form be stored on our Google Drive and able to use the [custom Google Apps Script](https://github.com/sunlightpolicy/open-data-policy-wizard) that I created to process users’ inputs.
+One random thing that I’m happy about is the design and functioning of the Open Data Policy Generator. On the front end, the user sees a form that looks just like the rest of the site. But when a user submits the form on this site, their submission data is then [passed to Google Forms](https://github.com/sunlightpolicy/open-data-policy-hub/blob/master/generator/index.html) rather than being digested by this site. This helped help things simple for us, allowing this site to be a static website while also having the form be stored on our Google Drive and able to use the [custom Google Apps Script](https://github.com/sunlightpolicy/open-data-policy-wizard) that I created to process users’ inputs.
 
 <!-- [image of form] -->
 
